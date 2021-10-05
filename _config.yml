@@ -76,16 +76,14 @@ content:
       - layout: left
         title: Green Shield Technology
         link: https://greenshield.fr/
-        # link_text: 
+        link_text: greenshield.fr
         sub_title: Research Intern
         caption: April 2021 - August 2021
         #quote: >
         description: | # this will include new lines to allow paragraphs
-            Mathematical epidemiology applied to the spread of beetroots diseases.
-
-            Topics: mathematical epidemiology, scientific computing, simulation.
-
-            Languages: Python
+            * Mathematical epidemiology applied to the spread of beetroots diseases.
+            * Topics: mathematical epidemiology, scientific computing, simulation.
+            * Languages: Python
       - layout: left
         title: FieldBox.ai
         link: fieldbox.ai

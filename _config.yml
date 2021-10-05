@@ -1,6 +1,6 @@
 # Site
 repository: sproogen/resume-theme
-favicon: images/favicon.ico
+favicon: images/icon.png
 
 # Content configuration version
 version: 2
@@ -163,7 +163,7 @@ content:
           * Langages: Julia, Git
 
       - layout: left
-        title: Implémentation du jeu d'arcade *Paratroopers*
+        title: Implémentation du jeu d'arcade "Paratroopers"
         caption: Octobre - Décembre 2018
         sub_title: Projet ENPC
         #quote: >
@@ -200,7 +200,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Recherche sur la théorie d'Hartree-Fock et sur l'effet d'une perturbation dans l'équation de Schrödinger.
 
-          * Langages: Python
+          * Langage: Python
 
       - layout: left
         title: Codage entropique
@@ -210,7 +210,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Recherche sur la théorie de l'information de Shannon et implémentation de deux algorithmes de compressions sans perte.
 
-          * Langages: Python
+          * Langage: Python
 
       - layout: left
         title: Utilisation des quaternions dans les jeux-vidéos
@@ -220,7 +220,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Recherche sur les angles d'Euler, les quaternions et les courbes de Bézier pour les rotations 3D dans les jeux-vidéos.
 
-          * Langages: Python
+          * Langage: Python
 
       - layout: left
         title: Fractales et Pavages
@@ -230,11 +230,19 @@ content:
         description: | # this will include new lines to allow paragraphs
           Recherche sur les pavages et les formes partitionnant le plan.
 
-          * Langages: Python
+          * Langage: Python
   
   - title: Community Involvement # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        title: Running Vincennes Association
+        caption: 2021 - Present
+        sub_title: Member
+        #quote: >
+        description: | # this will include new lines to allow paragraphs
+          Active runner of the [running club of Vincennes](https://www.running-vincennes.fr/).
+
       - layout: left
         title: Dévelop'Ponts
         caption: 2018 - 2019
@@ -251,7 +259,7 @@ content:
         sub_title: Treasurer of the IT club at ENPC.
         #quote: >
         description: | # this will include new lines to allow paragraphs
-          In charge of the club's finances. Organization of LaTeX formations for ENPC student.
+          In charge of the [club](https://clubinfo.enpc.org/)'s finances. Organization of [LaTeX formations](https://clubinfo.enpc.org/formations.html) for ENPC students.
 
           * Langages: LaTeX, Git
 
@@ -261,14 +269,14 @@ content:
         sub_title: Co-founder of the ENPC chess club
         #quote: >
         description: | # this will include new lines to allow paragraphs
-          Organization of chess tournaments, and introduction to the game to ENPC students.
+          Organization of chess tournaments, and introduction to the game to ENPC students. Co-founder of the [ENPC Lichess team](https://lichess.org/team/pions-et-chaussees).
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in mathematics, physics and computers, some of my other interests and hobbies are:
       - Sports (Running, Badminton, Tennis, Table Tennis)
-      - Gaming (Metroidvanias)
+      - Gaming (Metroidvanias, active member of the [GH community](https://www.scorehero.com/forum/profile.php?mode=viewprofile&u=507557))
       - [Chess](https://lichess.org/@/FlewerBoy)
 
 # Footer

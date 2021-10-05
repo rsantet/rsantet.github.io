@@ -124,6 +124,8 @@ content:
           **Master de la Modélisation** (Master of Modelisation), specializing in the **Analyse Numérique et Équations aux Dérivées Partielles** (Numerical Analysis and Partial Differential Equations) branch.
 
           * Topics: functional analysis, stochastic processes, numerical analysis, hyperbolic equations, multiscale systems, elliptic equations, Lorentzian differential geometry.
+
+          * Languages: Python, Julia
           
       - layout: left
         title: École Nationale des Ponts et Chaussées
@@ -136,16 +138,6 @@ content:
           * Topics: functional analysis, stochastic processes, Fourier analysis, numerical analysis, scientific computing, probabilities, statistics, optimal control, operational research, artificial intelligence, quantum mechanics, economics
 
           * Languages: C++, Python, Julia, Git, LaTeX
-          
-      - layout: left
-        title: École Nationale des Ponts et Chaussées
-        caption: 2017 - 2021
-        sub_title: Engineering Degree
-        #quote: >
-        description: | # this will include new lines to allow paragraphs
-          Specialization in the **Modélisation, Analyse, Simulation** (Modelisation, Analysis, Simulation) Master
-
-          * Topics: functional analysis, stochastic processes, Fourier analysis, numerical analysis, scientific computing, probabilities, statistics, optimal control, operational research, artificial intelligence, quantum mechanics, economics.
 
   - title: Past Projects [in French] # Title for the section
     layout: list # Type of content section (list/text)

@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/pic.png
 about_content: | # this will include new lines to allow paragraphs
-  I am a PhD student in computational statistical physics under the direction of [Gabriel Stoltz](https://cermics-lab.enpc.fr/gabriel-stoltz/) and [Tony Lelièvre](https://cermics.enpc.fr/~lelievre/) at [CERMICS](https://cermics-lab.enpc.fr/) and [MATHERIALS](https://team.inria.fr/matherials/) (INRIA).
+  I am a PhD student in computational statistical physics under the direction of [Gabriel Stoltz](https://cermics-lab.enpc.fr/gabriel-stoltz/) 
 
 content:
   #- title: Projects # Title for the section
@@ -125,9 +125,6 @@ content:
 
           Topics: functional analysis, stochastic processes, numerical analysis, hyperbolic equations, multiscale systems, elliptic equations, Lorentzian differential geometry.
 
-  - title: Past Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
       - layout: left
         title: École Nationale des Ponts et Chaussées
         caption: 2017 - 2021

@@ -17,7 +17,7 @@ darkmode: true
 # Social links
 # twitter_username:
 github_username: rsantet
-stackoverflow_username: flewer47
+stackoverflow_username: 11345387/flewer47
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/pic.png
 about_content: | # this will include new lines to allow paragraphs
-  I am a PhD student in computational statistical physics under the direction of Gabriel Stoltz and Tony Lelièvre at CERMICS and MATHERIALS (INRIA).
+  I am a PhD student in computational statistical physics under the direction of [Gabriel Stoltz](https://cermics-lab.enpc.fr/gabriel-stoltz/) and [Tony Lelièvre](https://cermics.enpc.fr/~lelievre/) at [CERMICS](https://cermics-lab.enpc.fr/) and [MATHERIALS](https://team.inria.fr/matherials/) (INRIA).
 
 content:
   #- title: Projects # Title for the section
@@ -74,6 +74,31 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+          title: Green Shield Technology
+          link: https://greenshield.fr/
+          # link_text: 
+          sub_title: Research Intern
+          caption: April 2021 - August 2021
+          #quote: >
+          description: | # this will include new lines to allow paragraphs
+              Mathematical epidemiology applied to the spread of beetroots diseases.
+
+              Topics: mathematical epidemiology, scientific computing, simulation.
+
+              Languages: Python
+      - layout: left
+          title: FieldBox.ai
+          link: fieldbox.ai
+          sub_title: Data Scientist & Customer Success officer
+          caption: January 2020 - July 2020
+          description: |
+              Machine Learning challenges and IT support to customers (both front-end and back-end).
+
+              Topics: machine learning, IT systems, front-end and back-end development.
+
+              Languages: Python, Bash, JavaScript, Erlang.
+
+      - layout: left
         title: CEA DAM/DIF
         link: 
         # link_text: 
@@ -87,19 +112,20 @@ content:
 
             Languages: C++, Python
 
-      - layout: left
-        title: FieldBox.ai
-        link: fieldbox.ai
-        sub_title: Data Scientist & Customer Success officer
-        caption: January 2020 - July 2020
-        description: |
-            Machine Learning challenges and IT support to customers (both front-end and back-end).
-
-            Topics: machine learning, IT systems, front-end and back-end development.
-
-            Languages: Python, Bash, JavaScript, Erlang.
-
   - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Sorbonne Université
+        caption: 2020-2021
+        sub_title: Master Degree
+        #quote: >
+        description: | # this will include new lines to allow paragraphs
+          **Master de la Modélisation** (Master of Modelisation), specializing in the **Analyse Numérique et Équations aux Dérivées Partielles** (Numerical Analysis and Partial Differential Equations) branch.
+
+          Topics: functional analysis, stochastic processes, numerical analysis, hyperbolic equations, multiscale systems, elliptic equations, Lorentzian differential geometry.
+
+  - title: Past Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -108,24 +134,20 @@ content:
         sub_title: Engineering Degree
         #quote: >
         description: | # this will include new lines to allow paragraphs
-          Specialization in the **Modélisation, Analyse, Simulation** (Modelization, Analysis, Simulation) Master
+          Specialization in the **Modélisation, Analyse, Simulation** (Modelisation, Analysis, Simulation) Master
 
-          Topics: functional analysis, stochastic processes, numerical analysis,
+          Topics: functional analysis, stochastic processes, Fourier analysis, numerical analysis, scientific computing, probabilities, statistics, optimal control, operational research, artificial intelligence, quantum mechanics, economics.
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      Alongside my interests in mathematics, physics and computers, some of my other interests and hobbies are:
+      - Sports (Running, Badminton)
+      - Gaming (Metroidvanias)
+      - [Chess](https://lichess.org/@/FlewerBoy)
 
 # Footer
-footer_show_references: true
+#footer_show_references: true
 # references_title: References on request (Override references text)
 
 # Build settings

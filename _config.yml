@@ -81,8 +81,10 @@ content:
         caption: April 2021 - August 2021
         #quote: >
         description: | # this will include new lines to allow paragraphs
-            * Mathematical epidemiology applied to the spread of beetroots diseases.
-            * Topics: mathematical epidemiology, scientific computing, simulation.
+            Mathematical epidemiology applied to the spread of beetroots diseases.
+            
+            * Topics: mathematical epidemiology, scientific computing, simulation
+            
             * Languages: Python
       - layout: left
         title: FieldBox.ai
@@ -92,9 +94,9 @@ content:
         description: |
             Machine Learning challenges and IT support to customers (both front-end and back-end).
 
-            Topics: machine learning, IT systems, front-end and back-end development.
+            * Topics: machine learning, IT systems, front-end and back-end development
 
-            Languages: Python, Bash, JavaScript, Erlang.
+            * Languages: Python, Bash, JavaScript, Erlang
 
       - layout: left
         title: CEA DAM/DIF
@@ -106,9 +108,9 @@ content:
         description: | # this will include new lines to allow paragraphs
             Applying mathematics to molecular dynamics.
 
-            Topics: statistical physics, machine learning, scientific computing.
+            * Topics: statistical physics, machine learning, scientific computing
 
-            Languages: C++, Python
+            * Languages: C++, Python
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -121,7 +123,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           **Master de la Modélisation** (Master of Modelisation), specializing in the **Analyse Numérique et Équations aux Dérivées Partielles** (Numerical Analysis and Partial Differential Equations) branch.
 
-          Topics: functional analysis, stochastic processes, numerical analysis, hyperbolic equations, multiscale systems, elliptic equations, Lorentzian differential geometry.
+          * Topics: functional analysis, stochastic processes, numerical analysis, hyperbolic equations, multiscale systems, elliptic equations, Lorentzian differential geometry.
           
       - layout: left
         title: École Nationale des Ponts et Chaussées
@@ -131,13 +133,149 @@ content:
         description: | # this will include new lines to allow paragraphs
           Specialization in the **Modélisation, Analyse, Simulation** (Modelisation, Analysis, Simulation) Master
 
-          Topics: functional analysis, stochastic processes, Fourier analysis, numerical analysis, scientific computing, probabilities, statistics, optimal control, operational research, artificial intelligence, quantum mechanics, economics.
+          * Topics: functional analysis, stochastic processes, Fourier analysis, numerical analysis, scientific computing, probabilities, statistics, optimal control, operational research, artificial intelligence, quantum mechanics, economics
+
+          * Languages: C++, Python, Julia, Git, LaTeX
+          
+      - layout: left
+        title: École Nationale des Ponts et Chaussées
+        caption: 2017 - 2021
+        sub_title: Engineering Degree
+        #quote: >
+        description: | # this will include new lines to allow paragraphs
+          Specialization in the **Modélisation, Analyse, Simulation** (Modelisation, Analysis, Simulation) Master
+
+          * Topics: functional analysis, stochastic processes, Fourier analysis, numerical analysis, scientific computing, probabilities, statistics, optimal control, operational research, artificial intelligence, quantum mechanics, economics.
+
+  - title: Past Projects [in French] # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Réduction de données dans le contexte de cartes géographiques
+        caption: Février - Mai 2019
+        sub_title: Projet ENPC avec Be-Bound
+        #quote: >
+        description: | # this will include new lines to allow paragraphs
+          État de l'Art sur la compression de données de cartes géographiques pour la distribution d'une application mobile par Be-Bound.
+
+          * Langages: JavaScript, Python, Bash, Git
+
+      - layout: left
+        title: Dynamique stochastique d'une population à l'aide du modèle de Wright-Fisher
+        caption: Octobre - Décembre 2018
+        sub_title: Projet ENPC
+        #quote: >
+        description: | # this will include new lines to allow paragraphs
+          Recherche sur les marches aléatoires, mouvements browniens et martingales continues. Application à l'évolution d'une population d'allèles avec des phénomènes de mutations et sélections.
+
+          * Langages: Julia, Git
+
+      - layout: left
+        title: Implémentation du jeu d'arcade *Paratroopers*
+        caption: Octobre - Décembre 2018
+        sub_title: Projet ENPC
+        #quote: >
+        description: | # this will include new lines to allow paragraphs
+          Implémentation du jeu vidéo dans le cadre dun cours sur les bonnes méthodes de programmation.
+
+          * Langages: C++, Git
+
+      - layout: left
+        title: Estimation de probabilité dans le contexte d'évènements rares
+        caption: Septembre 2018
+        sub_title: Projet ENPC
+        #quote: >
+        description: | # this will include new lines to allow paragraphs
+          Implémentation de l'algorithme *Adaptative Multilevel Splitting* (AMS) pour estimer des probabilités rares. Application à la dynamique moléculaire.
+
+          * Langages: Python, Git.
+
+      - layout: left
+        title: Réduction de modèles appliquée au transport d'un polluant
+        caption: Mars - Juin 2018
+        sub_title: Projet ENPC
+        #quote: >
+        description: | # this will include new lines to allow paragraphs
+          Application d'un algorithme de réduction (SVD) pour modéliser l'évolution d'un polluant grâce à l'équation d'advection.
+
+          * Langages: Python, Git
+
+      - layout: left
+        title: Modélisation de défauts dans un cristal quantique
+        caption: Janvier - Mars 2018
+        sub_title: Projet ENPC
+        #quote: >
+        description: | # this will include new lines to allow paragraphs
+          Recherche sur la théorie d'Hartree-Fock et sur l'effet d'une perturbation dans l'équation de Schrödinger.
+
+          * Langages: Python
+
+      - layout: left
+        title: Codage entropique
+        caption: Janvier - Juin 2017
+        sub_title: Projet CPGE
+        #quote: >
+        description: | # this will include new lines to allow paragraphs
+          Recherche sur la théorie de l'information de Shannon et implémentation de deux algorithmes de compressions sans perte.
+
+          * Langages: Python
+
+      - layout: left
+        title: Utilisation des quaternions dans les jeux-vidéos
+        caption: Janvier - Juin 2016
+        sub_title: Projet CPGE
+        #quote: >
+        description: | # this will include new lines to allow paragraphs
+          Recherche sur les angles d'Euler, les quaternions et les courbes de Bézier pour les rotations 3D dans les jeux-vidéos.
+
+          * Langages: Python
+
+      - layout: left
+        title: Fractales et Pavages
+        caption: Mars - Mai 2015
+        sub_title: Projet CPGE
+        #quote: >
+        description: | # this will include new lines to allow paragraphs
+          Recherche sur les pavages et les formes partitionnant le plan.
+
+          * Langages: Python
+  
+  - title: Community Involvement # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Dévelop'Ponts
+        caption: 2018 - 2019
+        sub_title: Member of a sustainable development association
+        #quote: >
+        description: | # this will include new lines to allow paragraphs
+          Sustainable development projects, distribution of veggie baskets to students and administratives, [website update (that is now being remodelled)](http://developponts.enpc.org/).
+
+          * Langages: PHP, HTML, Git
+
+      - layout: left
+        title: KIClubInfo
+        caption: 2018 - 2019
+        sub_title: Treasurer of the IT club at ENPC.
+        #quote: >
+        description: | # this will include new lines to allow paragraphs
+          In charge of the club's finances. Organization of LaTeX formations for ENPC student.
+
+          * Langages: LaTeX, Git
+
+      - layout: left
+        title: Pions & Chaussées
+        caption: 2018 - 2019
+        sub_title: Co-founder of the ENPC chess club
+        #quote: >
+        description: | # this will include new lines to allow paragraphs
+          Organization of chess tournaments, and introduction to the game to ENPC students.
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in mathematics, physics and computers, some of my other interests and hobbies are:
-      - Sports (Running, Badminton)
+      - Sports (Running, Badminton, Tennis, Table Tennis)
       - Gaming (Metroidvanias)
       - [Chess](https://lichess.org/@/FlewerBoy)
 

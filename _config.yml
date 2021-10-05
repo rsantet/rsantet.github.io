@@ -87,16 +87,16 @@ content:
 
             Languages: Python
       - layout: left
-          title: FieldBox.ai
-          link: fieldbox.ai
-          sub_title: Data Scientist & Customer Success officer
-          caption: January 2020 - July 2020
-          description: |
-              Machine Learning challenges and IT support to customers (both front-end and back-end).
+        title: FieldBox.ai
+        link: fieldbox.ai
+        sub_title: Data Scientist & Customer Success officer
+        caption: January 2020 - July 2020
+        description: |
+            Machine Learning challenges and IT support to customers (both front-end and back-end).
 
-              Topics: machine learning, IT systems, front-end and back-end development.
+            Topics: machine learning, IT systems, front-end and back-end development.
 
-              Languages: Python, Bash, JavaScript, Erlang.
+            Languages: Python, Bash, JavaScript, Erlang.
 
       - layout: left
         title: CEA DAM/DIF

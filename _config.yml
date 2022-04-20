@@ -70,6 +70,11 @@ content:
   #      description: | # this will include new lines to allow paragraphs
   #        I started this project as a way if learning <mark>React</mark> and it #has since grown into a fully fledged app. I have learned many skills #through this and been I'm very proud of having this in my portfolio. If #you don't have a project as awesome as this I would advise you make one.
 #
+  - title: Conferences
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - [CECAM - Numerical Techniques for Nonequilibrium Steady States](https://www.cecam.org/workshop-details/36) - [Poster](./files/poster_cecam_numerical_techniques_nonequilibrium_steady_states_2022.pdf) 
+
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:

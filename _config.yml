@@ -173,7 +173,7 @@ content:
         sub_title: Projet ENPC
         #quote: >
         description: | # this will include new lines to allow paragraphs
-          Implémentation du jeu vidéo dans le cadre dun cours sur les bonnes méthodes de programmation.
+          Implémentation du jeu vidéo dans le cadre d'un cours sur les bonnes méthodes de programmation.
 
           * Langages: C++, Git
 

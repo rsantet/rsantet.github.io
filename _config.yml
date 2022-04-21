@@ -73,7 +73,7 @@ content:
   - title: Conferences
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - [CECAM - Numerical Techniques for Nonequilibrium Steady States](https://www.cecam.org/workshop-details/36) - [Poster](./files/poster_cecam_numerical_techniques_nonequilibrium_steady_states_2022.pdf) 
+      - April 2022 - [CECAM - Numerical Techniques for Nonequilibrium Steady States](https://www.cecam.org/workshop-details/36) ([Poster](./files/poster_cecam_numerical_techniques_nonequilibrium_steady_states_2022.pdf))
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)

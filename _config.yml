@@ -74,7 +74,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       - April 2022 - [CECAM - Numerical Techniques for Nonequilibrium Steady States](https://www.cecam.org/workshop-details/36) ([Poster](./files/CECAM_2022_Numerical_Techniques_Noneq_Steady_States_Poster.pdf))
-      - April 2022 - [CECAM - Mixed-gen Season 2 – Session 7: Simulating non-equilibrium phenomena and rare events](https://www.cecam.org/workshop-details/1107) ([Slides](./files/CECAM_2022_Mixed_Gen_Simulating_Noneq_Phenomena_Rare_Events_2022_Talk.pdf))
+      - April 2022 - [CECAM - Mixed-gen Season 2 – Session 7: Simulating non-equilibrium phenomena and rare events](https://www.cecam.org/workshop-details/1107) ([Slides](./files/CECAM_2022_Mixed_Gen_Simulating_Noneq_Phenomena_Rare_Events_2022_Talk.pdf), [Talk](https://youtu.be/3iK5a0a-0TY?t=535))
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)

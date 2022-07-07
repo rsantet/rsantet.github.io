@@ -92,8 +92,8 @@ content:
   - title: Teaching
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - [École Nationale des Ponts et Chaussées, January-March 2022] Project with 4 students: introduction to mathematical epidemiology (SIS/SIS/SIER models, control methods, demographic variations, R0 computation, local and asymptotic stability of endemic equilibrium).
-      - [École Nationale des Ponts et Chaussées, April-May 2022] [PDE course](http://cermics.enpc.fr/~legoll/edpef.html): Sobolev spaces, elliptic PDEs (Poisson like PDEs with Dirichlet/Neumann/Robin boundary conditions on bounded spaces), Lax-Milgram theorem, Poincare inequalities, calculus of variations (energetic viewpoint). Application to linear elasticity and obstacle problems.
+      - Project with 4 students: introduction to mathematical epidemiology (SIS/SIS/SIER models, control methods, demographic variations, R0 computation, local and asymptotic stability of endemic equilibrium). [École Nationale des Ponts et Chaussées, January-March 2022]
+      - [PDE course](http://cermics.enpc.fr/~legoll/edpef.html): Sobolev spaces, elliptic PDEs (Poisson like PDEs with Dirichlet/Neumann/Robin boundary conditions on bounded spaces), Lax-Milgram theorem, Poincare inequalities, calculus of variations (energetic viewpoint). Application to linear elasticity and obstacle problems. [École Nationale des Ponts et Chaussées, April-May 2022]
 
   - title: Distinction
     layout: text
@@ -116,7 +116,7 @@ content:
           * Topics: mathematical epidemiology, scientific computing, simulation
 
           * Languages: Python
-          
+
       - layout: left
         title: FieldBox.ai
         link: fieldbox.ai

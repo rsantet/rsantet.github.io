@@ -21,11 +21,11 @@ stackoverflow_username: 11345387/flewer47
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-# instagram_username: 
+# instagram_username:
 linkedin_username: r%C3%A9gis-santet-64a263143
 # xing_username: jekyll
 # pinterest_username: jekyll
-# youtube_username: 
+# youtube_username:
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -46,9 +46,21 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/pic.png
+about_profile_image: images/pic.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am a PhD student in computational statistical physics under the direction of [Gabriel Stoltz](https://cermics-lab.enpc.fr/gabriel-stoltz/) and [Tony Lelièvre](https://cermics.enpc.fr/~lelievre/) at [CERMICS](https://cermics-lab.enpc.fr/) and [MATHERIALS](https://team.inria.fr/matherials/) (INRIA).
+  Relevant topics include:
+  - overdamped/underdamped Langevin dynamics
+  - sampling of probability measures in high dimensions
+  - Markov Chain Monte Carlo methods (Hamiltonian Monte Carlo, Generalized variants, Metroplis-Hastings)
+  - numerical analysis of implicitly defined schemes (symplectic and Lebesgue measure-preserving numerical flows)
+  - non-equilibrium systems: perturbed dynamics with non gradient flows, linear response, transport coefficients
+  - numerical integration (Julia)
+
+  Other topics I am interested in:
+  - machine Learning techniques for biased sampling
+  - solving PDEs/SDEs
+  - numerical tools for scientific programming
 
 content:
   #- title: Projects # Title for the section
@@ -69,12 +81,24 @@ content:
   #        This is probably one of the greatest apps ever created, if you don't #agree you're probably wrong.
   #      description: | # this will include new lines to allow paragraphs
   #        I started this project as a way if learning <mark>React</mark> and it #has since grown into a fully fledged app. I have learned many skills #through this and been I'm very proud of having this in my portfolio. If #you don't have a project as awesome as this I would advise you make one.
-#
+  #
   - title: Conferences
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - April 2022 - [CECAM - Numerical Techniques for Nonequilibrium Steady States](https://www.cecam.org/workshop-details/36) ([Poster](./files/CECAM_2022_Numerical_Techniques_Noneq_Steady_States_Poster.pdf))
-      - April 2022 - [CECAM - Mixed-gen Season 2 – Session 7: Simulating non-equilibrium phenomena and rare events](https://www.cecam.org/workshop-details/1107) ([Slides](./files/CECAM_2022_Mixed_Gen_Simulating_Noneq_Phenomena_Rare_Events_2022_Talk.pdf), [Talk](https://youtu.be/3iK5a0a-0TY?t=535))
+      - April 2022 - [CECAM - Mixed-gen Season 2 – Session 7: Simulating non-equilibrium phenomena and rare events](https://www.cecam.org/workshop-details/1107). *Genuinely unbiased Metropolis schemes for Langevin-like dynamics* ([Slides](./files/CECAM_2022_Mixed_Gen_Simulating_Noneq_Phenomena_Rare_Events_2022_Talk.pdf), [Talk](https://youtu.be/3iK5a0a-0TY?t=535))
+      - April 2022 - [CECAM - Numerical Techniques for Nonequilibrium Steady States](https://www.cecam.org/workshop-details/36). *Unbiased sampling of HMC schemes for non separable Hamiltonian systems* ([Poster](./files/CECAM_2022_Numerical_Techniques_Noneq_Steady_States_Poster.pdf))
+      - March 2022 - [CERMICS - Young Researchers Seminar](https://cermics-lab.enpc.fr/seminaires/young-researchers-seminar/). *Discretizing Langevin dynamics with multiplicative noise for sampling high-dimensional probability measures* ([Slides](files/CERMICS_March_2022_PhD_Seminar.pdf))
+
+  - title: Teaching
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - [École Nationale des Ponts et Chaussées, January-March 2022] Project with 4 students: introduction to mathematical epidemiology (SIS/SIS/SIER models, control methods, demographic variations, R0 computation, local and asymptotic stability of endemic equilibrium).
+      - [École Nationale des Ponts et Chaussées, April-May 2022] [PDE course](http://cermics.enpc.fr/~legoll/edpef.html): Sobolev spaces, elliptic PDEs (Poisson like PDEs with Dirichlet/Neumann/Robin boundary conditions on bounded spaces), Lax-Milgram theorem, Poincare inequalities, calculus of variations (energetic viewpoint). Application to linear elasticity and obstacle problems.
+
+  - title: Distinction
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - [Pasquet's Prize](https://www.fondationdesponts.fr/prix-pasquet/) - Valedictorian of École Nationale des Ponts et Chaussées (2022)
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -87,36 +111,37 @@ content:
         caption: April 2021 - August 2021
         #quote: >
         description: | # this will include new lines to allow paragraphs
-            Mathematical epidemiology applied to the spread of beetroots diseases.
-            
-            * Topics: mathematical epidemiology, scientific computing, simulation
-            
-            * Languages: Python
+          Mathematical epidemiology applied to the spread of beetroots diseases.
+
+          * Topics: mathematical epidemiology, scientific computing, simulation
+
+          * Languages: Python
+          
       - layout: left
         title: FieldBox.ai
         link: fieldbox.ai
         sub_title: Data Scientist & Customer Success officer
         caption: January 2020 - July 2020
         description: |
-            Machine Learning challenges and IT support to customers (both front-end and back-end).
+          Machine Learning challenges and IT support to customers (both front-end and back-end).
 
-            * Topics: machine learning, IT systems, front-end and back-end development
+          * Topics: machine learning, IT systems, front-end and back-end development
 
-            * Languages: Python, Bash, JavaScript, Erlang
+          * Languages: Python, Bash, JavaScript, Erlang
 
       - layout: left
         title: CEA DAM/DIF
-        link: 
-        # link_text: 
+        link:
+        # link_text:
         sub_title: Research Intern
         caption: June 2019 - November 2019
         #quote: >
         description: | # this will include new lines to allow paragraphs
-            Applying mathematics to molecular dynamics.
+          Applying mathematics to molecular dynamics.
 
-            * Topics: statistical physics, machine learning, scientific computing
+          * Topics: statistical physics, machine learning, scientific computing
 
-            * Languages: C++, Python
+          * Languages: C++, Python
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -132,14 +157,14 @@ content:
           * Topics: functional analysis, stochastic processes, numerical analysis, hyperbolic equations, multiscale systems, elliptic equations, Lorentzian differential geometry.
 
           * Languages: Python, Julia
-          
+
       - layout: left
         title: École Nationale des Ponts et Chaussées
         caption: 2017 - 2021
         sub_title: Engineering Degree
         #quote: >
         description: | # this will include new lines to allow paragraphs
-          Specialization in the **Modélisation, Analyse, Simulation** (Modelisation, Analysis, Simulation) Master
+          Specialization in the **Modélisation, Analyse, Simulation** (Modelisation, Analysis, Simulation) Master.
 
           * Topics: functional analysis, stochastic processes, Fourier analysis, numerical analysis, scientific computing, probabilities, statistics, optimal control, operational research, artificial intelligence, quantum mechanics, economics
 
@@ -237,10 +262,18 @@ content:
           Recherche sur les pavages et les formes partitionnant le plan.
 
           * Langage: Python
-  
+
   - title: Community Involvement # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        title: CERMICS
+        caption: 2021 - Present
+        sub_title: PhD representative
+        #quote: >
+        description: | # this will include new lines to allow paragraphs
+          PhD representative of the CERMICS laboratory (seminar organization, administrative meetings)
+
       - layout: left
         title: Running Vincennes Association
         caption: 2021 - Present
@@ -283,7 +316,7 @@ content:
       Alongside my interests in mathematics, physics and computers, some of my other interests and hobbies are:
       - Sports (Running, Badminton, Tennis, Table Tennis)
       - Gaming (Metroidvanias, active member of the [GH community](https://www.scorehero.com/forum/profile.php?mode=viewprofile&u=507557))
-      - [Chess](https://lichess.org/@/FlewerBoy)
+      - [Chess](https://lichess.org/@/rsantboy)
 
 # Footer
 #footer_show_references: true
@@ -297,4 +330,4 @@ sass:
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag

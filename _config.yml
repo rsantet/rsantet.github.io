@@ -52,13 +52,13 @@ about_content: | # this will include new lines to allow paragraphs
   Relevant topics include:
   - overdamped/underdamped Langevin dynamics
   - sampling of probability measures in high dimensions
-  - Markov Chain Monte Carlo methods (Hamiltonian Monte Carlo, Generalized variants, Metroplis-Hastings)
-  - numerical analysis of implicitly defined schemes (symplectic and Lebesgue measure-preserving numerical flows)
+  - Markov Chain Monte Carlo methods (Metropolis-Hastings, Hamiltonian Monte Carlo)
+  - numerical analysis
   - non-equilibrium systems: perturbed dynamics with non gradient flows, linear response, transport coefficients
   - numerical integration (Julia)
 
   Other topics I am interested in:
-  - machine Learning techniques for biased sampling
+  - machine Learning techniques
   - solving PDEs/SDEs
   - numerical tools for scientific programming
 
@@ -93,8 +93,9 @@ content:
   - title: Teaching
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Project with 4 students: introduction to mathematical epidemiology (SIS/SIS/SIER models, control methods, demographic variations, R0 computation, local and asymptotic stability of endemic equilibrium). [École Nationale des Ponts et Chaussées, January-March 2022]
-      - [PDE course](http://cermics.enpc.fr/~legoll/edpef.html): Sobolev spaces, elliptic PDEs (Poisson like PDEs with Dirichlet/Neumann/Robin boundary conditions on bounded spaces), Lax-Milgram theorem, Poincare inequalities, calculus of variations (energetic viewpoint). Application to linear elasticity and obstacle problems. [École Nationale des Ponts et Chaussées, April-May 2022]
+      - [École Nationale des Ponts et Chaussées, January-March 2022] Project with 4 students: introduction to mathematical epidemiology (SIS/SIS/SIER models, control methods, demographic variations, R0 computation, local and asymptotic stability of endemic equilibrium).
+      - [École Nationale des Ponts et Chaussées, April-May 2022] [PDE course](http://cermics.enpc.fr/~legoll/edpef.html): Sobolev spaces, elliptic PDEs (Poisson like PDEs with Dirichlet/Neumann/Robin boundary conditions on bounded spaces), Lax-Milgram theorem, Poincare inequalities, calculus of variations (energetic viewpoint). Application to linear elasticity and obstacle problems.
+      - [École Nationale des Ponts et Chaussées, September-December 2022] Analysis course: Measure theory and integration, Hilbert spaces, Lebesgue spaces, Fourier series, Distribution theory, Partial differential equations, Finite difference methods, Fourier transform.
 
   - title: Distinction
     layout: text

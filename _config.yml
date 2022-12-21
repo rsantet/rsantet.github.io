@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/pic.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a PhD student in computational statistical physics under the direction of [Gabriel Stoltz](https://cermics-lab.enpc.fr/gabriel-stoltz/) and [Tony Lelièvre](https://cermics.enpc.fr/~lelievre/) at [CERMICS](https://cermics-lab.enpc.fr/) and [MATHERIALS](https://team.inria.fr/matherials/) (INRIA).
+  I am a PhD student in computational statistical physics under the direction of [Gabriel Stoltz](https://cermics-lab.enpc.fr/gabriel-stoltz/) and [Tony Lelièvre](https://cermics.enpc.fr/~lelievre/) at [CERMICS](https://cermics-lab.enpc.fr/) (École des Ponts) and [MATHERIALS](https://team.inria.fr/matherials/) (INRIA Paris).
   Relevant topics include:
   - overdamped/underdamped Langevin dynamics
   - sampling of probability measures in high dimensions

@@ -278,12 +278,13 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-          title: ED MSTIC
-          caption: 2023 - Present
-          sub_title: PhD representative
-          #quote: >
-          description: | # this will include new lines to allow paragraphs
-            PhD representative of the [MSTIC doctoral school](https://www.paris-est-sup.fr/ecoles-doctorales/ecole-doctorale-mathematiques-et-stic-mstic/l-ed-mstic/)
+        title: ED MSTIC
+        caption: 2023 - Present
+        sub_title: PhD representative
+        #quote: >
+        description: | # this will include new lines to allow paragraphs
+          PhD representative of the [MSTIC doctoral school](https://www.paris-est-sup.fr/ecoles-doctorales/ecole-doctorale-mathematiques-et-stic-mstic/l-ed-mstic/)
+
       - layout: left
         title: CERMICS
         caption: 2021 - Present

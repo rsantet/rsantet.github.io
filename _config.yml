@@ -85,7 +85,7 @@ content:
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - T. Lelièvre, R. Santet, G. Stoltz, *Unbiasing Hamiltonian Monte Carlo algorithms for a general Hamiltonian function*. (2023) [Preprint](https://arxiv.org/abs/2303.15918), [PDF](./files/Article_Unbiasing_HMC.pdf), [Code](https://github.com/rsantet/RMHMC)
+      - T. Lelièvre, R. Santet, G. Stoltz, *Unbiasing Hamiltonian Monte Carlo algorithms for a general Hamiltonian function*. (2023) [Preprint arXiv](https://arxiv.org/abs/2303.15918) - [Preprint HAL](https://hal.science/hal-04050146), [PDF](./files/Article_Unbiasing_HMC.pdf), [Code](https://github.com/rsantet/RMHMC)
 
   - title: Conferences
     layout: text

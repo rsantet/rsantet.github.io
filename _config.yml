@@ -91,6 +91,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       - April 2023 - [Mascot-Num 2023](https://mascotnum2023.sciencesconf.org/). *Optimizing the diffusion of overdamped Langevin dynamics* ([Poster](./files/MASCOT_NUM_2023_Poster.pdf), [Blitz Slide](./files/MASCOT_NUM_2023_Blitz_Slide.pdf))
+      - March 2023 - [Ma Thèse en 180 secondes](https://mt180.fr/). 3 minutes to introduce my subject for the whole world to see. [Finale Paris-Est Sup 2023 - Video (in French)](https://www.youtube.com/watch?v=R4xknDnXapg)
       - December 2022 - [ANR SINEQ MEETING](https://sites.google.com/view/aleiac/anr-sineq?pli=1). *Optimizing the diffusion for equilibrium and nonequilibrium dynamics* ([Slides](./files/ANR_SINEQ_2022_Optimizing_diffusion_equilibrium_nonequilibrium_dynamics.pdf))
       - November 2022 - [CERMICS JSJC 2022](https://cermics-lab.enpc.fr/seminaires/young-researchers-seminar/jsjc/). *Presenting MCMC methods in the molecular dynamics framework* ([Notebook](./files/CERMICS_JSJC_2022_Phy_Stat_Num.ipynb))
       - July 2022 - [MCQMC 2022](https://www.ricam.oeaw.ac.at/events/conferences/mcqmc2022/). *Ensuring unbiased sampling of HMC schemes for non separable Hamiltonian systems* ([Slides](./files/MCQMC_2022_Ensuring_Unbiased_Sampling_of_HMC_Schemes_for_Non_Separable_Hamiltonian_Systems.pdf))

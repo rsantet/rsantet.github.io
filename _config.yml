@@ -90,9 +90,10 @@ content:
   - title: Conferences
     layout: text
     content: | # this will include new lines to allow paragraphs
+      - May 2023 - [Birmingham Workshop: (Non)equilibrium Molecular Dynamics: Algorithms, Analysis, and Applications](https://www.eventbrite.com/e/nonequilibrium-molecular-dynamics-algorithms-analysis-and-applications-tickets-619146833847?keep_tld=1). *Optimizing the diffusion of overdamped Langevin dynamics* ([Slides](./files/BIRMINGHAM_2023_Slides.pdf))
       - April 2023 - [Mascot-Num 2023](https://mascotnum2023.sciencesconf.org/). *Optimizing the diffusion of overdamped Langevin dynamics* ([Poster](./files/MASCOT_NUM_2023_Poster.pdf), [Blitz Slide](./files/MASCOT_NUM_2023_Blitz_Slide.pdf))
       - March 2023 - [Ma Thèse en 180 secondes](https://mt180.fr/). 3 minutes to introduce my subject for the whole world to see. [Finale Paris-Est Sup 2023 - Video (in French)](https://www.youtube.com/watch?v=R4xknDnXapg)
-      - December 2022 - [ANR SINEQ MEETING](https://sites.google.com/view/aleiac/anr-sineq?pli=1). *Optimizing the diffusion for equilibrium and nonequilibrium dynamics* ([Slides](./files/ANR_SINEQ_2022_Optimizing_diffusion_equilibrium_nonequilibrium_dynamics.pdf))
+      - December 2022 - [ANR SINEQ Meeting](https://sites.google.com/view/aleiac/anr-sineq?pli=1). *Optimizing the diffusion for equilibrium and nonequilibrium dynamics* ([Slides](./files/ANR_SINEQ_2022_Optimizing_diffusion_equilibrium_nonequilibrium_dynamics.pdf))
       - November 2022 - [CERMICS JSJC 2022](https://cermics-lab.enpc.fr/seminaires/young-researchers-seminar/jsjc/). *Presenting MCMC methods in the molecular dynamics framework* ([Notebook](./files/CERMICS_JSJC_2022_Phy_Stat_Num.ipynb))
       - July 2022 - [MCQMC 2022](https://www.ricam.oeaw.ac.at/events/conferences/mcqmc2022/). *Ensuring unbiased sampling of HMC schemes for non separable Hamiltonian systems* ([Slides](./files/MCQMC_2022_Ensuring_Unbiased_Sampling_of_HMC_Schemes_for_Non_Separable_Hamiltonian_Systems.pdf))
       - April 2022 - [CECAM - Mixed-gen Season 2 – Session 7: Simulating non-equilibrium phenomena and rare events](https://www.cecam.org/workshop-details/1107). *Genuinely unbiased Metropolis schemes for Langevin-like dynamics* ([Slides](./files/CECAM_2022_Mixed_Gen_Simulating_Noneq_Phenomena_Rare_Events_2022_Talk.pdf), [Talk](https://youtu.be/3iK5a0a-0TY?t=535))
@@ -111,6 +112,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       - [Pasquet's Prize](https://www.fondationdesponts.fr/prix-pasquet/) - Valedictorian of École Nationale des Ponts et Chaussées (2022)
+      - Bourse d'Excellence via the Chaire Saint-Gobain - École des Ponts ParisTech
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)

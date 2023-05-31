@@ -90,6 +90,7 @@ content:
   - title: Conferences
     layout: text
     content: | # this will include new lines to allow paragraphs
+      - May 2023 - [GAMM 2023 - Section 26: Modeling, analysis and simulation of molecular systems](https://jahrestagung.gamm-ev.de/annual-meeting-2023/program/sections/). *Optimizing the diffusion of overdamped Langevin dynamics* ([Slides](./files/GAMM2023_Optimizing_Diffusion_Overdamped_Langevin.pdf))
       - May 2023 - [Birmingham Workshop: (Non)equilibrium Molecular Dynamics: Algorithms, Analysis, and Applications](https://www.eventbrite.com/e/nonequilibrium-molecular-dynamics-algorithms-analysis-and-applications-tickets-619146833847?keep_tld=1). *Optimizing the diffusion of overdamped Langevin dynamics* ([Slides](./files/BIRMINGHAM_2023_Slides.pdf))
       - April 2023 - [Mascot-Num 2023](https://mascotnum2023.sciencesconf.org/). *Optimizing the diffusion of overdamped Langevin dynamics* ([Poster](./files/MASCOT_NUM_2023_Poster.pdf), [Blitz Slide](./files/MASCOT_NUM_2023_Blitz_Slide.pdf))
       - March 2023 - [Ma Thèse en 180 secondes](https://mt180.fr/). 3 minutes to introduce my subject for the whole world to see. [Finale Paris-Est Sup 2023 - Video (in French)](https://www.youtube.com/watch?v=R4xknDnXapg)
@@ -104,9 +105,9 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       - Introduction to mathematical epidemiology (SIS/SIS/SIER models, control methods, demographic variations, R0 computation, local and asymptotic stability of endemic equilibrium). Supervising a group project (4 students). **École Nationale des Ponts et Chaussées, January-March 2022**
-      - [PDE course](http://cermics.enpc.fr/~legoll/edpef.html): Sobolev spaces, elliptic PDEs (Poisson like PDEs with Dirichlet/Neumann/Robin boundary conditions on bounded spaces), Lax-Milgram theorem, Poincare inequalities, calculus of variations (energetic viewpoint). Application to linear elasticity and obstacle problems. Flipped classroom, 25 students. **École Nationale des Ponts et Chaussées, April-May 2022 and March-June 2023**
-      - [Analysis course](https://educnet.enpc.fr/course/view.php?id=566): Measure theory and integration, Hilbert spaces, Lebesgue spaces, Fourier series, Distribution theory, Partial differential equations, Finite difference methods, Fourier transform. **École Nationale des Ponts et Chaussées, September-December 2022**
-      - Project about the use of a nonconstant diffusion coefficient to produce a proposal move for a Metropolis-like algorithm based on the integration of the overdamped Langevin dynamics. Introduction to Markov chains, Markov chain Monte Carlo algorithms, Finite Elements method, optimization tools. Supervising a group project (4 students). **École Nationale des Ponts et Chaussées, February-May 2023**
+      - [PDE course](http://cermics.enpc.fr/~legoll/edpef.html): Sobolev spaces, elliptic PDEs (Poisson like PDEs with Dirichlet/Neumann/Robin boundary conditions on bounded spaces), Lax-Milgram theorem, Poincare inequalities, calculus of variations (energetic viewpoint). Application to linear elasticity and obstacle problems. 25 students. **École Nationale des Ponts et Chaussées, April-May 2022 and March-June 2023**
+      - [Analysis course](https://educnet.enpc.fr/course/view.php?id=566): Measure theory and integration, Hilbert spaces, Lebesgue spaces, Fourier series, Distribution theory, Partial differential equations, Finite difference methods, Fourier transform. Flipped classroom, 25 student. **École Nationale des Ponts et Chaussées, September-December 2022**
+      - Project about the use of a nonconstant diffusion coefficient to produce a proposal move for a Metropolis-like algorithm based on the integration of the overdamped Langevin dynamics. Introduction to Markov chains, Markov chain Monte Carlo algorithms, Finite Elements method, optimization tools. Supervising a group project (4 students). **École Nationale des Ponts et Chaussées, February-June 2023**
 
   - title: Distinction
     layout: text

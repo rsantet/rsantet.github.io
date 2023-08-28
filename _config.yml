@@ -186,9 +186,10 @@ content:
 
           * Languages: C++, Python, Julia, Git, LaTeX
 
-  - title: Past Projects 
+  - title: (Past) Projects 
     layout: text 
-    content: | 
+    content: |
+      - Implementation in Julia of the multivariate effective sample size (multiESS) estimator, July 2023. [Code](https://github.com/rsantet/multiESS).
       - Data reduction in the context of cartography, February - May 2019, ENPC project with Be-Bound. State of the art on data reduction for maps for a mobile app development. Languages: JavaScript, Python, Bash, Git. 
       - Stochastic dynamics of a population using the Wright-Fisher model, October - December 2018, ENPC project. Research on random walks, Brownian motion and continuous martingales. Application to an allele population subject to mutations and selections. Languages: Julia, Git. [Code](https://github.com/rsantet/MOPSIProject) - [Poster](files/Poster_MOPSI_Wright_Fisher.pdf)
       - Implementation of the arcade game "Paratroopers", October - December 2018, ENPC project. Implementation of the video game in the context of a course on good habits for programming. Languages: C++, Git. [Code](https://github.com/rsantet/ProjetTDLOG)

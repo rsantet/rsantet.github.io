@@ -90,6 +90,7 @@ content:
   - title: Conferences
     layout: text
     content: | 
+      - September 2023 - [ANR SINEQ SUMMER SCHOOL 2023 - Sampling high-dimensional probability measures: applications in (non)equilibrium molceular dynamics and statistics](https://www.ceremade.dauphine.fr/~iacob/SINEQ-SummerSchool). *Discretization of Langevin dynamics and its Metropolization* ([Notebook](https://github.com/noeblassel/SINEQSummerSchool2023/blob/main/notebooks/langevin.ipynb), [GitHub repository](https://github.com/noeblassel/SINEQSummerSchool2023))
       - June 2023 - [MCM 2023](https://mcm2023.sciencesconf.org/). *Unbiasing HMC for General Hamiltonian Functions* ([Slides](./files/MCM_2023_Unbiasing_HMC_For_General_Hamiltonian_Functions.pdf))
       - May 2023 - [GAMM 2023 - Section 26: Modeling, analysis and simulation of molecular systems](https://jahrestagung.gamm-ev.de/annual-meeting-2023/program/sections/). *Optimizing the diffusion of overdamped Langevin dynamics* ([Slides](./files/GAMM2023_Optimizing_Diffusion_Overdamped_Langevin.pdf))
       - May 2023 - [Birmingham Workshop: (Non)equilibrium Molecular Dynamics: Algorithms, Analysis, and Applications](https://www.eventbrite.com/e/nonequilibrium-molecular-dynamics-algorithms-analysis-and-applications-tickets-619146833847?keep_tld=1). *Optimizing the diffusion of overdamped Langevin dynamics* ([Slides](./files/BIRMINGHAM_2023_Slides.pdf))

@@ -111,6 +111,16 @@ content:
       - **École Nationale des Ponts et Chaussées, September - December 2022** - [Analysis course](https://educnet.enpc.fr/course/view.php?id=566): Measure theory and integration, Hilbert spaces, Lebesgue spaces, Fourier series, Distribution theory, Partial differential equations, Finite difference methods, Fourier transform. Flipped classroom, 25 student.
       - **École Nationale des Ponts et Chaussées, February - June 2023** - Project about the use of a nonconstant diffusion coefficient to produce a proposal move for a Metropolis-like algorithm based on the integration of the overdamped Langevin dynamics. Introduction to Markov chains, Markov chain Monte Carlo algorithms, Finite Elements method, optimization tools. Supervising a group project (4 students).
 
+      I transcribed in LaTeX some mathematics exercices (and answers) that I prepared during my studies (L2 or CPGE MP* level in France). Everything is in French (and there are definitely typos here and there). 
+      Content: abstract algebra, differential calculus, matrix calculus, linear differential equations, euclidean spaces, normed vector spaces, functions of a real variable, integration, inner product spaces, probabilities, matrix reduction, series, power series, sequences and series of functions. [GitHub repository](https://github.com/rsantet/Exos_Maths_Spe)
+
+      An ongoing project is also to transcribe in LaTeX the physics course I followed the same year (L2 or CPGE MP* level in France). Everything is in French (and there are definitely typos here and there, again).
+      Content (for now): 
+      * Mechanics: non-inertial reference frames, friction between two solids
+      * Electromagnetism: electromagnetic field, electrostatics, magnetostatics, electric dipoles, Maxwell equations, electromagnetic energy, waves in a vacuum, dispersion and attenuation of waves
+      * Thermodynamics: open systems, heat transfers   
+      [GitHub repository](https://github.com/rsantet/Physique_Chimie_L2)
+
   - title: Distinction
     layout: text
     content: | 

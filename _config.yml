@@ -141,7 +141,7 @@ content:
       - Data reduction applied to pollutants transport, March - June 2018, ENPC project. Application of the SVD algorithm to model the evolution of a pollutant using the advection equation. Languages: Python, Git. [Code](https://github.com/BatyLeo/Projet)
       - Modeling defaults in a crystal, January - March 2018, ENPC project. Learning Hartree-Fock theory and the effect of a perturbation on Schrödinger's equation. Language: Python.
       - Entropy coding, January - June 2017, CPGE Project. Learning Shannon's information theory and implementation of two lossless compression algorithms. Language: Python.
-      - Using quaternions in video games, January - June 2016, CPGE Project.Using quaternions and Bézier's curves instead of Euler angles to implement 3D rotations in video games. Langage: Python.
+      - Using quaternions in video games, January - June 2016, CPGE Project. Using quaternions and Bézier's curves instead of Euler angles to implement 3D rotations in video games. Langage: Python.
 
   - title: Community Involvement 
     layout: text 

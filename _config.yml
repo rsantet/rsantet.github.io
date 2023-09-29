@@ -121,7 +121,7 @@ content:
     content: |
         - Research Intern @ [Green Shield Technology](https://greenshield.fr/), April - August 2021. Mathematical epidemiology applied to the spread of beetroots diseases. Relevant topics include mathematical epidemiology, scientific computing, simulation. Languages: Python.
         - Data Scientist & Customer Success officer @ [FieldBox.ai](https://www.fieldbox.ai/), January - July 2020. Machine Learning challenges and IT support to customers (both front-end and back-end). Relevant topics include machine learning, IT systems, front-end and back-end development. Languages: Python, Bash, JavaScript, Erlang.
-        - Research Intern @ [CEA DAM/DIF](https://www-dam.cea.fr/), June - November 2019. Applying mathematics to molecular dynamics. Relevant topics include statistical physics, machine learning, scientific computing. Languages: C++, Python.
+        - Research Intern @ [CEA DAM/DIF](https://www-dam.cea.fr/), June - November 2019. Applying mathematics to molecular dynamics. Relevant topics include statistical physics, machine learning, scientific computing. Languages: C++ (LAMMPS interfaced with PLUMED2), Python.
 
   - title: Education 
     layout: text 

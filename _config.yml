@@ -54,7 +54,7 @@ about_content: |
   - sampling of probability measures in high dimensions
   - Markov Chain Monte Carlo methods (Metropolis-Hastings, Hamiltonian Monte Carlo)
   - numerical analysis
-  - non-equilibrium systems: perturbed dynamics with non gradient flows, linear response, transport coefficients
+  - non-equilibrium systems: perturbed dynamics with non gradient flows, linear response, transport coefficients, computing free energy differences
   - numerical integration (Julia)
 
   Other topics I am interested in:
@@ -90,6 +90,7 @@ content:
   - title: Conferences
     layout: text
     content: | 
+      - October 2023 - [d² reading group](https://www.stats.ox.ac.uk/d2-reading-group). *Computing free energy differences using non-equilibrium dynamics* ([Slides](./files/d2_reading_group_free_energy_computations_using_non_equilibriums_dynamics.pdf))
       - September 2023 - [ANR SINEQ SUMMER SCHOOL 2023 - Sampling high-dimensional probability measures: applications in (non)equilibrium molceular dynamics and statistics](https://www.ceremade.dauphine.fr/~iacob/SINEQ-SummerSchool). *Discretization of Langevin dynamics and its Metropolization* ([Notebook](https://github.com/noeblassel/SINEQSummerSchool2023/blob/main/notebooks/langevin.ipynb), [GitHub repository](https://github.com/noeblassel/SINEQSummerSchool2023))
       - June 2023 - [MCM 2023](https://mcm2023.sciencesconf.org/). *Unbiasing HMC for General Hamiltonian Functions* ([Slides](./files/MCM_2023_Unbiasing_HMC_For_General_Hamiltonian_Functions.pdf))
       - May 2023 - [GAMM 2023 - Section 26: Modeling, analysis and simulation of molecular systems](https://jahrestagung.gamm-ev.de/annual-meeting-2023/program/sections/). *Optimizing the diffusion of overdamped Langevin dynamics* ([Slides](./files/GAMM2023_Optimizing_Diffusion_Overdamped_Langevin.pdf))
@@ -130,6 +131,8 @@ content:
   - title: Experience 
     layout: text 
     content: |
+        - Recognized student @ [Department of Statistics]() (Oxford University), Michaelmas term (September - December 2023). Computing free energy differences using diffusion models techniques. Relevant topics include Jarzynski-Crooks' equality, annealed importance sampling, diffusion models, Schrödinger Bridge. Languages: Python.
+        - PhD student @ [CERMICS](https://cermics-lab.enpc.fr/) (École des Ponts) and [MATHERIALS](https://team.inria.fr/matherials/) (INRIA Paris), October 2021 - Ongoing.
         - Research Intern @ [Green Shield Technology](https://greenshield.fr/), April - August 2021. Mathematical epidemiology applied to the spread of beetroots diseases. Relevant topics include mathematical epidemiology, scientific computing, simulation. Languages: Python.
         - Data Scientist & Customer Success officer @ [FieldBox.ai](https://www.fieldbox.ai/), January - July 2020. Machine Learning challenges and IT support to customers (both front-end and back-end). Relevant topics include machine learning, IT systems, front-end and back-end development. Languages: Python, Bash, JavaScript, Erlang.
         - Research Intern @ [CEA DAM/DIF](https://www-dam.cea.fr/), June - November 2019. Applying mathematics to molecular dynamics. Relevant topics include statistical physics, machine learning, scientific computing. Languages: C++ (LAMMPS interfaced with PLUMED2), Python.

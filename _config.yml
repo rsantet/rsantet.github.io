@@ -90,6 +90,7 @@ content:
   - title: Conferences
     layout: text
     content: | 
+      - January 2024 - [Mostly Monte Carlo](https://bonstats.github.io/mostlymontecarlo/). *Optimizing the diffusion of overdamped Langevin dynamics* ([Slides](./files/Mostly_Monte_Carlo_2024.pdf))
       - October 2023 - [d² reading group](https://www.stats.ox.ac.uk/d2-reading-group). *Computing free energy differences using non-equilibrium dynamics* ([Slides](./files/d2_reading_group_free_energy_computations_using_non_equilibriums_dynamics.pdf))
       - September 2023 - [ANR SINEQ SUMMER SCHOOL 2023 - Sampling high-dimensional probability measures: applications in (non)equilibrium molceular dynamics and statistics](https://www.ceremade.dauphine.fr/~iacob/SINEQ-SummerSchool). *Discretization of Langevin dynamics and its Metropolization* ([Notebook](https://github.com/noeblassel/SINEQSummerSchool2023/blob/main/notebooks/langevin.ipynb), [GitHub repository](https://github.com/noeblassel/SINEQSummerSchool2023))
       - June 2023 - [MCM 2023](https://mcm2023.sciencesconf.org/). *Unbiasing HMC for General Hamiltonian Functions* ([Slides](./files/MCM_2023_Unbiasing_HMC_For_General_Hamiltonian_Functions.pdf))

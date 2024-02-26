@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Régis Santet
 title: PhD Student
-email:  [r......@enpc.fr](https://mailhide.io/e/4R6XjXCx)
+#email:
 #website:
 
 # Dark Mode (true/false/never)
@@ -61,6 +61,8 @@ about_content: |
   - machine Learning techniques
   - solving PDEs/SDEs
   - numerical tools for scientific programming
+
+  Mail: [r......@enpc.fr](https://mailhide.io/e/4R6XjXCx)
 
 content:
   #- title: Projects 

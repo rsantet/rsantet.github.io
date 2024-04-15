@@ -50,17 +50,10 @@ about_profile_image: images/pic.jpg
 about_content: | 
   I am a PhD student in computational statistical physics under the direction of [Gabriel Stoltz](https://cermics-lab.enpc.fr/gabriel-stoltz/) and [Tony Lelièvre](https://cermics.enpc.fr/~lelievre/) at [CERMICS](https://cermics-lab.enpc.fr/) (École des Ponts) and [MATHERIALS](https://team.inria.fr/matherials/) (INRIA Paris).
   Relevant topics include:
+  - sampling of probability measures in high dimensions using MCMC methods (Metropolis-Hastings, Generalized Hamiltonian Monte Carlo)
   - overdamped/underdamped Langevin dynamics
-  - sampling of probability measures in high dimensions
-  - Markov Chain Monte Carlo methods (Metropolis-Hastings, Hamiltonian Monte Carlo)
   - numerical analysis
-  - non-equilibrium systems: perturbed dynamics with non gradient flows, linear response, transport coefficients, computing free energy differences
-  - numerical integration (Julia)
-
-  Other topics I am interested in:
-  - machine Learning techniques
-  - solving PDEs/SDEs
-  - numerical tools for scientific programming
+  - numerical integration
 
   Mail: [r......@enpc.fr](https://mailhide.io/e/4R6XjXCx)
 
@@ -87,7 +80,7 @@ content:
   - title: Publications
     layout: text
     content: | 
-      - T. Lelièvre, R. Santet, G. Stoltz, *Unbiasing Hamiltonian Monte Carlo algorithms for a general Hamiltonian function*. (2023) [arXiv](https://arxiv.org/abs/2303.15918) - [HAL](https://hal.science/hal-04050146) - [PDF](./files/Article_Unbiasing_HMC.pdf) - [Code](https://github.com/rsantet/RMHMC)
+      - T. Lelièvre, R. Santet, G. Stoltz, *Unbiasing Hamiltonian Monte Carlo algorithms for a general Hamiltonian function*. (2023) [arXiv](https://arxiv.org/abs/2303.15918) - [HAL](https://hal.science/hal-04050146) - [Code](https://github.com/rsantet/RMHMC)
 
   - title: Conferences
     layout: text
@@ -110,10 +103,10 @@ content:
   - title: Teaching
     layout: text
     content: | 
-      - **École Nationale des Ponts et Chaussées, January - March 2022** - Introduction to mathematical epidemiology (SIS/SIS/SIER models, control methods, demographic variations, R0 computation, local and asymptotic stability of endemic equilibrium). Supervising a group project (4 students).
-      - **École Nationale des Ponts et Chaussées, April - May 2022 and March-June 2023** - [PDE course](http://cermics.enpc.fr/~legoll/edpef.html): Sobolev spaces, elliptic PDEs (Poisson like PDEs with Dirichlet/Neumann/Robin boundary conditions on bounded spaces), Lax-Milgram theorem, Poincare inequalities, calculus of variations (energetic viewpoint). Application to linear elasticity and obstacle problems. 25 students.
-      - **École Nationale des Ponts et Chaussées, September - December 2022** - [Analysis course](https://educnet.enpc.fr/course/view.php?id=566): Measure theory and integration, Hilbert spaces, Lebesgue spaces, Fourier series, Distribution theory, Partial differential equations, Finite difference methods, Fourier transform. Flipped classroom, 25 student.
-      - **École Nationale des Ponts et Chaussées, February - June 2023** - Project about the use of a nonconstant diffusion coefficient to produce a proposal move for a Metropolis-like algorithm based on the integration of the overdamped Langevin dynamics. Introduction to Markov chains, Markov chain Monte Carlo algorithms, Finite Elements method, optimization tools. Supervising a group project (4 students).
+      - Introduction to mathematical epidemiology (SIS/SIS/SIER models, control methods, demographic variations, R0 computation, local and asymptotic stability of endemic equilibrium). Supervising a group project (4 students). **École Nationale des Ponts et Chaussées, January - March 2022**
+      - [PDE course](http://cermics.enpc.fr/~legoll/edpef.html): Sobolev spaces, elliptic PDEs (Poisson like PDEs with Dirichlet/Neumann/Robin boundary conditions on bounded spaces), Lax-Milgram theorem, Poincare inequalities, calculus of variations (energetic viewpoint). Application to linear elasticity and obstacle problems. 25 students. **École Nationale des Ponts et Chaussées, April - May 2022, March-June 2023, April - June 2024**
+      - [Analysis course](https://educnet.enpc.fr/course/view.php?id=566): Measure theory and integration, Hilbert spaces, Lebesgue spaces, Fourier series, Distribution theory, Partial differential equations, Finite difference methods, Fourier transform. Flipped classroom, 25 student. **École Nationale des Ponts et Chaussées, September - December 2022**
+      - Project about the use of a nonconstant diffusion coefficient to produce a proposal move for a Metropolis-like algorithm based on the integration of the overdamped Langevin dynamics. Introduction to Markov chains, Markov chain Monte Carlo algorithms, Finite Elements method, optimization tools. Supervising a group project (4 students). **École Nationale des Ponts et Chaussées, February - June 2023**
 
       I transcribed in LaTeX some mathematics exercices (and answers) that I prepared during my studies (L2 or CPGE MP* level in France). Everything is in French (and there are definitely typos here and there). 
       Content: abstract algebra, differential calculus, matrix calculus, linear differential equations, euclidean spaces, normed vector spaces, functions of a real variable, integration, inner product spaces, probabilities, matrix reduction, series, power series, sequences and series of functions. [GitHub repository](https://github.com/rsantet/Exos_Maths_Spe)
@@ -162,20 +155,12 @@ content:
   - title: Community Involvement 
     layout: text 
     content: |
-      - PhD representative of the [MSTIC doctoral school](https://www.paris-est-sup.fr/ecoles-doctorales/ecole-doctorale-mathematiques-et-stic-mstic/l-ed-mstic/), 2023 - Present. Administrative meetings.
+      - PhD representative of the [MSTIC doctoral school](https://www.paris-est-sup.fr/ecoles-doctorales/ecole-doctorale-mathematiques-et-stic-mstic/l-ed-mstic/), 2023. Administrative meetings.
       - PhD representative of the [CERMICS laboratory](https://cermics-lab.enpc.fr/), 2022 - 2023. 3 days seminar organization, administrative meetings.
       - Active runner of the [Running Vincennes Association](https://www.running-vincennes.fr/), 2021 - Present.
       - Member of a sustainable development association [Dévelop'Ponts](http://developponts.enpc.org/), 2018 - 2019. Sustainable development projects, distribution of veggie baskets to students and administratives, website update (that has now been completely remodelled). Langages: PHP, HTML, Git.
       - Member of the ENPC IT club [KIClubInfo](https://clubinfo.enpc.org/), 2018 - 2019. In charge of the club's finances. Organization of [LaTeX formations](https://clubinfo.enpc.org/formations.html) for ENPC students. Langages: LaTeX, Git.
       - Co-founder of the ENPC chess club, Pions & Chaussées, 2018 - 2019. Organization of chess tournaments, and introduction to the game to ENPC students. Co-founder of the [ENPC Lichess team](https://lichess.org/team/pions-et-chaussees).
-
-  - title: A Little More About Me
-    layout: text
-    content: | 
-      Alongside my interests in mathematics, physics and computers, some of my other interests and hobbies are:
-      - Sports (Running, Badminton, Tennis, Table Tennis)
-      - Gaming (Metroidvanias, active member of the [GH community](https://www.scorehero.com/forum/profile.php?mode=viewprofile&u=507557))
-      - [Chess](https://lichess.org/@/rsantboy)
 
 # Footer
 #footer_show_references: true

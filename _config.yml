@@ -77,10 +77,11 @@ content:
   #      description: | 
   #        I started this project as a way if learning <mark>React</mark> and it #has since grown into a fully fledged app. I have learned many skills #through this and been I'm very proud of having this in my portfolio. If #you don't have a project as awesome as this I would advise you make one.
   #
-  - title: Publications
+  - title: Preprints
     layout: text
     content: | 
       - T. Lelièvre, R. Santet, G. Stoltz, *Unbiasing Hamiltonian Monte Carlo algorithms for a general Hamiltonian function*. (2023) [arXiv](https://arxiv.org/abs/2303.15918) - [HAL](https://hal.science/hal-04050146) - [Code](https://github.com/rsantet/RMHMC)
+      - T. Lelièvre, G. A. PAvliotis, G. Robin, R. Santet, G. Stoltz, *Optimizing the diffusion of overdamped Langevin dynamics*. (2024) [arXiv](https://arxiv.org/abs/2404.12087) - [Python Code](https://github.com/rsantet/Optimal_Overdamped_Langevin_Diffusion_Python) - [Julia Code](https://github.com/rsantet/Optimal_Overdamped_Langevin_Diffusion_Julia)
 
   - title: Conferences
     layout: text
@@ -159,7 +160,7 @@ content:
       - PhD representative of the [CERMICS laboratory](https://cermics-lab.enpc.fr/), 2022 - 2023. 3 days seminar organization, administrative meetings.
       - Active runner of the [Running Vincennes Association](https://www.running-vincennes.fr/), 2021 - Present.
       - Member of a sustainable development association [Dévelop'Ponts](http://developponts.enpc.org/), 2018 - 2019. Sustainable development projects, distribution of veggie baskets to students and administratives, website update (that has now been completely remodelled). Langages: PHP, HTML, Git.
-      - Member of the ENPC IT club [KIClubInfo](https://clubinfo.enpc.org/), 2018 - 2019. In charge of the club's finances. Organization of [LaTeX formations](https://clubinfo.enpc.org/formations.html) for ENPC students. Langages: LaTeX, Git.
+      - Member of the ENPC IT club [KIClubInfo](https://clubinfo.enpc.org/), 2018 - 2019. In charge of the club's finances. Organization of [LaTeX formations](https://clubinfo.enpc.org/formations.php) for ENPC students. Langages: LaTeX, Git.
       - Co-founder of the ENPC chess club, Pions & Chaussées, 2018 - 2019. Organization of chess tournaments, and introduction to the game to ENPC students. Co-founder of the [ENPC Lichess team](https://lichess.org/team/pions-et-chaussees).
 
 # Footer

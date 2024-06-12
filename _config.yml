@@ -86,6 +86,7 @@ content:
   - title: Conferences
     layout: text
     content: | 
+      - June 2024 - [4th Italian Meeting on Probability and Mathematical Statistics](https://probabilityrome2024.it/). *Optimizing the diffusion of overdamped Langevin dynamics* ([Slides](./files/Italian_Meeting_Probability_Statistics_Rome_2024.pdf))
       - May 2024 - [Labex Bézout PhD Day 2024](https://indico.math.cnrs.fr/event/11955/overview). *Computational Statistical Physics : a numerical microscope* ([Slides](./files/Labex_Bezout.pdf))
       - January 2024 - [Mostly Monte Carlo](https://bonstats.github.io/mostlymontecarlo/). *Optimizing the diffusion of overdamped Langevin dynamics* ([Slides](./files/Mostly_Monte_Carlo_2024.pdf))
       - October 2023 - [d² reading group](https://www.stats.ox.ac.uk/d2-reading-group). *Computing free energy differences using non-equilibrium dynamics* ([Slides](./files/d2_reading_group_free_energy_computations_using_non_equilibriums_dynamics.pdf))

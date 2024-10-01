@@ -77,11 +77,15 @@ content:
   #      description: | 
   #        I started this project as a way if learning <mark>React</mark> and it #has since grown into a fully fledged app. I have learned many skills #through this and been I'm very proud of having this in my portfolio. If #you don't have a project as awesome as this I would advise you make one.
   #
+  - title: Publications
+    layout: text
+    content: | 
+      - T. Lelièvre, R. Santet, G. Stoltz, **Unbiasing Hamiltonian Monte Carlo algorithms for a general Hamiltonian function**, *Foundations of Computational Mathematics* (2024) [DOI](https://doi.org/10.1007/s10208-024-09677-4) - [arXiv](https://arxiv.org/abs/2303.15918) - [HAL](https://hal.science/hal-04050146) - [Code](https://github.com/rsantet/RMHMC)
   - title: Preprints
     layout: text
     content: | 
-      - T. Lelièvre, R. Santet, G. Stoltz, *Unbiasing Hamiltonian Monte Carlo algorithms for a general Hamiltonian function*. (2023) [arXiv](https://arxiv.org/abs/2303.15918) - [HAL](https://hal.science/hal-04050146) - [Code](https://github.com/rsantet/RMHMC)
-      - T. Lelièvre, G. A. Pavliotis, G. Robin, R. Santet, G. Stoltz, *Optimizing the diffusion coefficient of overdamped Langevin dynamics*. (2024) [arXiv](https://arxiv.org/abs/2404.12087) - [HAL](https://hal.science/hal-04568317) - [Python](https://github.com/rsantet/Optimal_Overdamped_Langevin_Diffusion_Python)/[Julia](https://github.com/rsantet/Optimal_Overdamped_Langevin_Diffusion_Julia) Code
+      - T. Lelièvre, G. A. Pavliotis, G. Robin, R. Santet, G. Stoltz, **Optimizing the diffusion coefficient of overdamped Langevin dynamics** (2024) [arXiv](https://arxiv.org/abs/2404.12087) - [HAL](https://hal.science/hal-04568317) - [Python](https://github.com/rsantet/Optimal_Overdamped_Langevin_Diffusion_Python)/[Julia](https://github.com/rsantet/Optimal_Overdamped_Langevin_Diffusion_Julia) Code
+      - T. Lelièvre, R. Santet, G. Stoltz, **Improving sampling by modifying the effective diffusion** (2024) [arXiv]()
 
   - title: Conferences
     layout: text

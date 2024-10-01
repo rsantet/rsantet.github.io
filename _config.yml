@@ -81,11 +81,12 @@ content:
     layout: text
     content: | 
       - T. Lelièvre, R. Santet, G. Stoltz, **Unbiasing Hamiltonian Monte Carlo algorithms for a general Hamiltonian function**, *Foundations of Computational Mathematics* (2024) [DOI](https://doi.org/10.1007/s10208-024-09677-4) - [arXiv](https://arxiv.org/abs/2303.15918) - [HAL](https://hal.science/hal-04050146) - [Code](https://github.com/rsantet/RMHMC)
+
   - title: Preprints
     layout: text
     content: | 
       - T. Lelièvre, G. A. Pavliotis, G. Robin, R. Santet, G. Stoltz, **Optimizing the diffusion coefficient of overdamped Langevin dynamics** (2024) [arXiv](https://arxiv.org/abs/2404.12087) - [HAL](https://hal.science/hal-04568317) - [Python](https://github.com/rsantet/Optimal_Overdamped_Langevin_Diffusion_Python)/[Julia](https://github.com/rsantet/Optimal_Overdamped_Langevin_Diffusion_Julia) Code
-      - T. Lelièvre, R. Santet, G. Stoltz, **Improving sampling by modifying the effective diffusion** (2024) [arXiv]()
+      - T. Lelièvre, R. Santet, G. Stoltz, **Improving sampling by modifying the effective diffusion** (2024) -- Appearing soon
 
   - title: Conferences
     layout: text
@@ -163,9 +164,10 @@ content:
   - title: Community Involvement 
     layout: text 
     content: |
+      - Helping pupils and students with their homeworks with [Mosaïc](https://mosaic-a-montreuil.fr/), 2023 - Present.
       - PhD representative of the [MSTIC doctoral school](https://www.paris-est-sup.fr/ecoles-doctorales/ecole-doctorale-mathematiques-et-stic-mstic/l-ed-mstic/), 2023. Administrative meetings.
       - PhD representative of the [CERMICS laboratory](https://cermics-lab.enpc.fr/), 2022 - 2023. 3 days seminar organization, administrative meetings.
-      - Active runner of the [Running Vincennes Association](https://www.running-vincennes.fr/), 2021 - Present.
+      - Member of the [Running Vincennes Association](https://www.running-vincennes.fr/), 2021 - 2024.
       - Member of a sustainable development association [Dévelop'Ponts](http://developponts.enpc.org/), 2018 - 2019. Sustainable development projects, distribution of veggie baskets to students and administratives, website update (that has now been completely remodelled). Langages: PHP, HTML, Git.
       - Member of the ENPC IT club [KIClubInfo](https://clubinfo.enpc.org/), 2018 - 2019. In charge of the club's finances. Organization of [LaTeX formations](https://clubinfo.enpc.org/formations.php) for ENPC students. Langages: LaTeX, Git.
       - Co-founder of the ENPC chess club, Pions & Chaussées, 2018 - 2019. Organization of chess tournaments, and introduction to the game to ENPC students. Co-founder of the [ENPC Lichess team](https://lichess.org/team/pions-et-chaussees).

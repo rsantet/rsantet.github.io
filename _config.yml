@@ -88,25 +88,50 @@ content:
       - T. Lelièvre, G. A. Pavliotis, G. Robin, R. Santet, G. Stoltz, **Optimizing the diffusion coefficient of overdamped Langevin dynamics** (2024) [arXiv](https://arxiv.org/abs/2404.12087) - [HAL](https://hal.science/hal-04568317) - [Python](https://github.com/rsantet/Optimal_Overdamped_Langevin_Diffusion_Python)/[Julia](https://github.com/rsantet/Optimal_Overdamped_Langevin_Diffusion_Julia) Code
       - T. Lelièvre, R. Santet, G. Stoltz, **Improving sampling by modifying the effective diffusion** (2024) -- Appearing soon
 
-  - title: Conferences
+  - title: Presented courses and tutorials
+    layout: text
+    content: |
+    - Discretization of Langevin dynamics and its Metropolization, [ANR SINEQ SUMMER SCHOOL 2023 - Sampling high-dimensional probability measures: applications in (non)equilibrium molceular dynamics and statistics](https://www.ceremade.dauphine.fr/~iacob/SINEQ-SummerSchool) - Champs-sur-Marne, September 2023 - [Notebook](https://github.com/noeblassel/SINEQSummerSchool2023/blob/main/notebooks/langevin.ipynb), [GitHub repository](https://github.com/noeblassel/SINEQSummerSchool2023)
+    - Presenting MCMC methods in the molecular dynamics framework, [CERMICS JSJC 2022](https://cermics-lab.enpc.fr/seminaires/young-researchers-seminar/jsjc/) - Provins, November 2022 - [Notebook](./files/CERMICS_JSJC_2022_Phy_Stat_Num.ipynb)
+
+  - title: Conferences and workshops
+    layout: text
+    content: |
+      - Optimizing the diffusion of overdamped Langein dynamics:
+        - [4th Italian Meeting on Probability and Mathematical Statistics](https://probabilityrome2024.it/) - Rome, June 2024 - [Slides](./files/Italian_Meeting_Probability_Statistics_Rome_2024.pdf)
+        - [Mostly Monte Carlo](https://bonstats.github.io/mostlymontecarlo/) - Paris, January 2024 - [Slides](./files/Mostly_Monte_Carlo_2024.pdf)
+        - [GAMM 2023 - Section 26: Modeling, analysis and simulation of molecular systems](https://jahrestagung.gamm-ev.de/annual-meeting-2023/program/sections/), Dresden, May 2023 - [Slides](./files/GAMM2023_Optimizing_Diffusion_Overdamped_Langevin.pdf)
+        - [Birmingham Workshop: (Non)equilibrium Molecular Dynamics: Algorithms, Analysis, and Applications](https://www.eventbrite.com/e/nonequilibrium-molecular-dynamics-algorithms-analysis-and-applications-tickets-619146833847?keep_tld=1) - Birmingham, May 2023 - [Slides](./files/BIRMINGHAM_2023_Slides.pdf)
+        - [ANR SINEQ Meeting](https://sites.google.com/view/aleiac/anr-sineq?pli=1) - Paris, December 2022 - [Slides](./files/ANR_SINEQ_2022_Optimizing_diffusion_equilibrium_nonequilibrium_dynamics.pdf)
+      - Computing free energy differences using non-equilibrium dynamics, [d² reading group](https://www.stats.ox.ac.uk/d2-reading-group) - Oxford, October 2023 - [Slides](./files/d2_reading_group_free_energy_computations_using_non_equilibriums_dynamics.pdf)
+      - Computational Statistical Physics : a numerical microscope, [Labex Bézout PhD Day 2024](https://indico.math.cnrs.fr/event/11955/overview) - Champs-sur-Marne, May 2024 - [Slides](./files/Labex_Bezout.pdf)
+      - Unbiasing Hamiltonian Monte Carlo algorithms for a general Hamiltonian function:
+        - [MCM 2023](https://mcm2023.sciencesconf.org/) - Paris, June 2023 - [Slides](./files/MCM_2023_Unbiasing_HMC_For_General_Hamiltonian_Functions.pdf)
+        - [MCQMC 2022](https://www.ricam.oeaw.ac.at/events/conferences/mcqmc2022/) - Linz, July 2022 - [Slides](./files/MCQMC_2022_Ensuring_Unbiased_Sampling_of_HMC_Schemes_for_Non_Separable_Hamiltonian_Systems.pdf)
+        - [CECAM - Mixed-gen Season 2 – Session 7: Simulating non-equilibrium phenomena and rare events](https://www.cecam.org/workshop-details/1107)- Online, April 2022 - [Slides](./files/CECAM_2022_Mixed_Gen_Simulating_Noneq_Phenomena_Rare_Events_2022_Talk.pdf), [Talk](https://youtu.be/3iK5a0a-0TY?t=535)
+        - [CERMICS - Young Researchers Seminar](https://cermics-lab.enpc.fr/seminaires/young-researchers-seminar/) - Champs-sur-Marne, March 2022 - [Slides](files/CERMICS_March_2022_PhD_Seminar.pdf)
+
+  - title: Posters
     layout: text
     content: | 
-      - June 2024 - [4th Italian Meeting on Probability and Mathematical Statistics](https://probabilityrome2024.it/). *Optimizing the diffusion of overdamped Langevin dynamics* ([Slides](./files/Italian_Meeting_Probability_Statistics_Rome_2024.pdf))
-      - May 2024 - [Labex Bézout PhD Day 2024](https://indico.math.cnrs.fr/event/11955/overview). *Computational Statistical Physics : a numerical microscope* ([Slides](./files/Labex_Bezout.pdf))
-      - January 2024 - [Mostly Monte Carlo](https://bonstats.github.io/mostlymontecarlo/). *Optimizing the diffusion of overdamped Langevin dynamics* ([Slides](./files/Mostly_Monte_Carlo_2024.pdf))
-      - October 2023 - [d² reading group](https://www.stats.ox.ac.uk/d2-reading-group). *Computing free energy differences using non-equilibrium dynamics* ([Slides](./files/d2_reading_group_free_energy_computations_using_non_equilibriums_dynamics.pdf))
-      - September 2023 - [ANR SINEQ SUMMER SCHOOL 2023 - Sampling high-dimensional probability measures: applications in (non)equilibrium molceular dynamics and statistics](https://www.ceremade.dauphine.fr/~iacob/SINEQ-SummerSchool). *Discretization of Langevin dynamics and its Metropolization* ([Notebook](https://github.com/noeblassel/SINEQSummerSchool2023/blob/main/notebooks/langevin.ipynb), [GitHub repository](https://github.com/noeblassel/SINEQSummerSchool2023))
-      - June 2023 - [MCM 2023](https://mcm2023.sciencesconf.org/). *Unbiasing HMC for General Hamiltonian Functions* ([Slides](./files/MCM_2023_Unbiasing_HMC_For_General_Hamiltonian_Functions.pdf))
-      - May 2023 - [GAMM 2023 - Section 26: Modeling, analysis and simulation of molecular systems](https://jahrestagung.gamm-ev.de/annual-meeting-2023/program/sections/). *Optimizing the diffusion of overdamped Langevin dynamics* ([Slides](./files/GAMM2023_Optimizing_Diffusion_Overdamped_Langevin.pdf))
-      - May 2023 - [Birmingham Workshop: (Non)equilibrium Molecular Dynamics: Algorithms, Analysis, and Applications](https://www.eventbrite.com/e/nonequilibrium-molecular-dynamics-algorithms-analysis-and-applications-tickets-619146833847?keep_tld=1). *Optimizing the diffusion of overdamped Langevin dynamics* ([Slides](./files/BIRMINGHAM_2023_Slides.pdf))
-      - April 2023 - [Mascot-Num 2023](https://mascotnum2023.sciencesconf.org/). *Optimizing the diffusion of overdamped Langevin dynamics* ([Poster](./files/MASCOT_NUM_2023_Poster.pdf), [Blitz Slide](./files/MASCOT_NUM_2023_Blitz_Slide.pdf))
-      - March 2023 - [Ma Thèse en 180 secondes](https://mt180.fr/). 3 minutes to introduce my subject for the whole world to see. [Finale Paris-Est Sup 2023 - Video (in French)](https://www.youtube.com/watch?v=R4xknDnXapg)
-      - December 2022 - [ANR SINEQ Meeting](https://sites.google.com/view/aleiac/anr-sineq?pli=1). *Optimizing the diffusion for equilibrium and nonequilibrium dynamics* ([Slides](./files/ANR_SINEQ_2022_Optimizing_diffusion_equilibrium_nonequilibrium_dynamics.pdf))
-      - November 2022 - [CERMICS JSJC 2022](https://cermics-lab.enpc.fr/seminaires/young-researchers-seminar/jsjc/). *Presenting MCMC methods in the molecular dynamics framework* ([Notebook](./files/CERMICS_JSJC_2022_Phy_Stat_Num.ipynb))
-      - July 2022 - [MCQMC 2022](https://www.ricam.oeaw.ac.at/events/conferences/mcqmc2022/). *Ensuring unbiased sampling of HMC schemes for non separable Hamiltonian systems* ([Slides](./files/MCQMC_2022_Ensuring_Unbiased_Sampling_of_HMC_Schemes_for_Non_Separable_Hamiltonian_Systems.pdf))
-      - April 2022 - [CECAM - Mixed-gen Season 2 – Session 7: Simulating non-equilibrium phenomena and rare events](https://www.cecam.org/workshop-details/1107). *Genuinely unbiased Metropolis schemes for Langevin-like dynamics* ([Slides](./files/CECAM_2022_Mixed_Gen_Simulating_Noneq_Phenomena_Rare_Events_2022_Talk.pdf), [Talk](https://youtu.be/3iK5a0a-0TY?t=535))
-      - April 2022 - [CECAM - Numerical Techniques for Nonequilibrium Steady States](https://www.cecam.org/workshop-details/36). *Unbiased sampling of HMC schemes for non separable Hamiltonian systems* ([Poster](./files/CECAM_2022_Numerical_Techniques_Noneq_Steady_States_Poster.pdf))
-      - March 2022 - [CERMICS - Young Researchers Seminar](https://cermics-lab.enpc.fr/seminaires/young-researchers-seminar/). *Discretizing Langevin dynamics with multiplicative noise for sampling high-dimensional probability measures* ([Slides](files/CERMICS_March_2022_PhD_Seminar.pdf))
+    - Optimizing the diffusion of overdamped Langein dynamics, [Mascot-Num 2023](https://mascotnum2023.sciencesconf.org/) - Le Croisic, April 2023 - [Poster](./files/MASCOT_NUM_2023_Poster.pdf), [Blitz Slide](./files/MASCOT_NUM_2023_Blitz_Slide.pdf)
+    - Unbiasing Hamiltonian Monte Carlo algorithms for a general Hamiltonian function, [CECAM - Numerical Techniques for Nonequilibrium Steady States](https://www.cecam.org/workshop-details/36) - Mainz, April 2022 - [Poster](./files/CECAM_2022_Numerical_Techniques_Noneq_Steady_States_Poster.pdf)
+
+  - title: General scientific communication
+    layout: text
+    content: |
+    - [Ma Thèse en 180 secondes](https://mt180.fr/): 3 minutes to introduce my subject for the whole world to see - Champs-sur-Marne, March 2023 - [Finale Paris-Est Sup 2023 - Video (in French)](https://www.youtube.com/watch?v=R4xknDnXapg)
+    - I transcribed in LaTeX some mathematics exercices (and answers) that I prepared during my studies (L2 or CPGE MP* level in France). Everything is in French (and there are definitely typos here and there). 
+    Content: abstract algebra, differential calculus, matrix calculus, linear differential equations, euclidean spaces, normed vector spaces, functions of a real variable, integration, inner product spaces, probabilities, matrix reduction, series, power series, sequences and series of functions. [GitHub repository](https://github.com/rsantet/Exos_Maths_Spe)
+
+    An ongoing project is also to transcribe in LaTeX the physics course I followed the same year (L2 or CPGE MP* level in France). Everything is in French (and there are definitely typos here and there, again).
+    Content (for now): 
+    * Mechanics: non-inertial reference frames, friction between two solids
+    * Electromagnetism: electromagnetic field, electrostatics, magnetostatics, electric dipoles, Maxwell equations, electromagnetic energy, waves in a vacuum, dispersion and attenuation of waves
+    * Thermodynamics: open systems, heat transfers   
+    [GitHub repository](https://github.com/rsantet/Physique_Chimie_L2)
+
+
 
   - title: Teaching
     layout: text
@@ -116,16 +141,6 @@ content:
       - [PDE course](http://cermics.enpc.fr/~legoll/edpef.html): Sobolev spaces, elliptic PDEs (Poisson like PDEs with Dirichlet/Neumann/Robin boundary conditions on bounded spaces), Lax-Milgram theorem, Poincare inequalities, calculus of variations (energetic viewpoint). Application to linear elasticity and obstacle problems. 25 students. **École Nationale des Ponts et Chaussées, April - May 2022, March-June 2023, April - June 2024**
       - [Analysis course](https://educnet.enpc.fr/course/view.php?id=566): Measure theory and integration, Hilbert spaces, Lebesgue spaces, Fourier series, Distribution theory, Partial differential equations, Finite difference methods, Fourier transform. Flipped classroom, 25 student. **École Nationale des Ponts et Chaussées, September - December 2022**
       - Project about the use of a nonconstant diffusion coefficient to produce a proposal move for a Metropolis-like algorithm based on the integration of the overdamped Langevin dynamics. Introduction to Markov chains, Markov chain Monte Carlo algorithms, Finite Elements method, optimization tools. Supervising a group project (4 students). **École Nationale des Ponts et Chaussées, February - June 2023**
-
-      I transcribed in LaTeX some mathematics exercices (and answers) that I prepared during my studies (L2 or CPGE MP* level in France). Everything is in French (and there are definitely typos here and there). 
-      Content: abstract algebra, differential calculus, matrix calculus, linear differential equations, euclidean spaces, normed vector spaces, functions of a real variable, integration, inner product spaces, probabilities, matrix reduction, series, power series, sequences and series of functions. [GitHub repository](https://github.com/rsantet/Exos_Maths_Spe)
-
-      An ongoing project is also to transcribe in LaTeX the physics course I followed the same year (L2 or CPGE MP* level in France). Everything is in French (and there are definitely typos here and there, again).
-      Content (for now): 
-      * Mechanics: non-inertial reference frames, friction between two solids
-      * Electromagnetism: electromagnetic field, electrostatics, magnetostatics, electric dipoles, Maxwell equations, electromagnetic energy, waves in a vacuum, dispersion and attenuation of waves
-      * Thermodynamics: open systems, heat transfers   
-      [GitHub repository](https://github.com/rsantet/Physique_Chimie_L2)
 
   - title: Distinction
     layout: text

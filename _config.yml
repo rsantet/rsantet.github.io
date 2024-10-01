@@ -91,8 +91,8 @@ content:
   - title: Presented courses and tutorials
     layout: text
     content: |
-    - Discretization of Langevin dynamics and its Metropolization, [ANR SINEQ SUMMER SCHOOL 2023 - Sampling high-dimensional probability measures: applications in (non)equilibrium molceular dynamics and statistics](https://www.ceremade.dauphine.fr/~iacob/SINEQ-SummerSchool) - Champs-sur-Marne, September 2023 - [Notebook](https://github.com/noeblassel/SINEQSummerSchool2023/blob/main/notebooks/langevin.ipynb), [GitHub repository](https://github.com/noeblassel/SINEQSummerSchool2023)
-    - Presenting MCMC methods in the molecular dynamics framework, [CERMICS JSJC 2022](https://cermics-lab.enpc.fr/seminaires/young-researchers-seminar/jsjc/) - Provins, November 2022 - [Notebook](./files/CERMICS_JSJC_2022_Phy_Stat_Num.ipynb)
+      - Discretization of Langevin dynamics and its Metropolization, [ANR SINEQ SUMMER SCHOOL 2023 - Sampling high-dimensional probability measures: applications in (non)equilibrium molceular dynamics and statistics](https://www.ceremade.dauphine.fr/~iacob/SINEQ-SummerSchool) - Champs-sur-Marne, September 2023 - [Notebook](https://github.com/noeblassel/SINEQSummerSchool2023/blob/main/notebooks/langevin.ipynb), [GitHub repository](https://github.com/noeblassel/SINEQSummerSchool2023)
+      - Presenting MCMC methods in the molecular dynamics framework, [CERMICS JSJC 2022](https://cermics-lab.enpc.fr/seminaires/young-researchers-seminar/jsjc/) - Provins, November 2022 - [Notebook](./files/CERMICS_JSJC_2022_Phy_Stat_Num.ipynb)
 
   - title: Conferences and workshops
     layout: text
@@ -114,22 +114,22 @@ content:
   - title: Posters
     layout: text
     content: | 
-    - Optimizing the diffusion of overdamped Langein dynamics, [Mascot-Num 2023](https://mascotnum2023.sciencesconf.org/) - Le Croisic, April 2023 - [Poster](./files/MASCOT_NUM_2023_Poster.pdf), [Blitz Slide](./files/MASCOT_NUM_2023_Blitz_Slide.pdf)
-    - Unbiasing Hamiltonian Monte Carlo algorithms for a general Hamiltonian function, [CECAM - Numerical Techniques for Nonequilibrium Steady States](https://www.cecam.org/workshop-details/36) - Mainz, April 2022 - [Poster](./files/CECAM_2022_Numerical_Techniques_Noneq_Steady_States_Poster.pdf)
+      - Optimizing the diffusion of overdamped Langein dynamics, [Mascot-Num 2023](https://mascotnum2023.sciencesconf.org/) - Le Croisic, April 2023 - [Poster](./files/MASCOT_NUM_2023_Poster.pdf), [Blitz Slide](./files/MASCOT_NUM_2023_Blitz_Slide.pdf)
+      - Unbiasing Hamiltonian Monte Carlo algorithms for a general Hamiltonian function, [CECAM - Numerical Techniques for Nonequilibrium Steady States](https://www.cecam.org/workshop-details/36) - Mainz, April 2022 - [Poster](./files/CECAM_2022_Numerical_Techniques_Noneq_Steady_States_Poster.pdf)
 
   - title: General scientific communication
     layout: text
     content: |
-    - [Ma Thèse en 180 secondes](https://mt180.fr/): 3 minutes to introduce my subject for the whole world to see - Champs-sur-Marne, March 2023 - [Finale Paris-Est Sup 2023 - Video (in French)](https://www.youtube.com/watch?v=R4xknDnXapg)
-    - I transcribed in LaTeX some mathematics exercices (and answers) that I prepared during my studies (L2 or CPGE MP* level in France). Everything is in French (and there are definitely typos here and there). 
-    Content: abstract algebra, differential calculus, matrix calculus, linear differential equations, euclidean spaces, normed vector spaces, functions of a real variable, integration, inner product spaces, probabilities, matrix reduction, series, power series, sequences and series of functions. [GitHub repository](https://github.com/rsantet/Exos_Maths_Spe)
+      - [Ma Thèse en 180 secondes](https://mt180.fr/): 3 minutes to introduce my subject for the whole world to see - Champs-sur-Marne, March 2023 - [Finale Paris-Est Sup 2023 - Video (in French)](https://www.youtube.com/watch?v=R4xknDnXapg)
+      - I transcribed in LaTeX some mathematics exercices (and answers) that I prepared during my studies (L2 or CPGE MP* level in France). Everything is in French (and there are definitely typos here and there). 
+      Content: abstract algebra, differential calculus, matrix calculus, linear differential equations, euclidean spaces, normed vector spaces, functions of a real variable, integration, inner product spaces, probabilities, matrix reduction, series, power series, sequences and series of functions. [GitHub repository](https://github.com/rsantet/Exos_Maths_Spe)
 
-    An ongoing project is also to transcribe in LaTeX the physics course I followed the same year (L2 or CPGE MP* level in France). Everything is in French (and there are definitely typos here and there, again).
-    Content (for now): 
-    * Mechanics: non-inertial reference frames, friction between two solids
-    * Electromagnetism: electromagnetic field, electrostatics, magnetostatics, electric dipoles, Maxwell equations, electromagnetic energy, waves in a vacuum, dispersion and attenuation of waves
-    * Thermodynamics: open systems, heat transfers   
-    [GitHub repository](https://github.com/rsantet/Physique_Chimie_L2)
+      An ongoing project is also to transcribe in LaTeX the physics course I followed the same year (L2 or CPGE MP* level in France). Everything is in French (and there are definitely typos here and there, again).
+      Content (for now): 
+      - Mechanics: non-inertial reference frames, friction between two solids
+      - Electromagnetism: electromagnetic field, electrostatics, magnetostatics, electric dipoles, Maxwell equations, electromagnetic energy, waves in a vacuum, dispersion and attenuation of waves
+      - Thermodynamics: open systems, heat transfers   
+      [GitHub repository](https://github.com/rsantet/Physique_Chimie_L2)
 
 
 

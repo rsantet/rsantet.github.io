@@ -86,7 +86,7 @@ content:
     layout: text
     content: | 
       - T. Lelièvre, G. A. Pavliotis, G. Robin, R. Santet, G. Stoltz, **Optimizing the diffusion coefficient of overdamped Langevin dynamics** (2024) [arXiv](https://arxiv.org/abs/2404.12087) - [HAL](https://hal.science/hal-04568317) - [Python](https://github.com/rsantet/Optimal_Overdamped_Langevin_Diffusion_Python)/[Julia](https://github.com/rsantet/Optimal_Overdamped_Langevin_Diffusion_Julia) Code
-      - T. Lelièvre, R. Santet, G. Stoltz, **Improving sampling by modifying the effective diffusion** (2024) -- Appearing soon
+      - T. Lelièvre, R. Santet, G. Stoltz, **Improving sampling by modifying the effective diffusion** (2024) [arXiv](https://arxiv.org/abs/2410.00525)
 
   - title: Presented courses and tutorials
     layout: text

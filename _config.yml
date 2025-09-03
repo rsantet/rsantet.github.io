@@ -75,9 +75,9 @@ content:
   - title: Publications
     layout: text
     content: | 
-      - T. Lelièvre, R. Santet, G. Stoltz, **Unbiasing Hamiltonian Monte Carlo algorithms for a general Hamiltonian function**, *Foundations of Computational Mathematics* (2024) [DOI](https://doi.org/10.1007/s10208-024-09677-4) - [arXiv](https://arxiv.org/abs/2303.15918) - [HAL](https://hal.science/hal-04050146) - [Code](https://github.com/rsantet/RMHMC)
-      - T. Lelièvre, G. A. Pavliotis, G. Robin, R. Santet, G. Stoltz, **Optimizing the diffusion coefficient of overdamped Langevin dynamics**, *Mathematics of Computations* (2025) [DOI](https://doi.org/10.1090/mcom/4098) - [arXiv](https://arxiv.org/abs/2404.12087) - [HAL](https://hal.science/hal-04568317) - [Python](https://github.com/rsantet/Optimal_Overdamped_Langevin_Diffusion_Python)/[Julia](https://github.com/rsantet/Optimal_Overdamped_Langevin_Diffusion_Julia) Code
       - T. Lelièvre, R. Santet, G. Stoltz, **Improving sampling by modifying the effective diffusion**, *Journal of Computational Physics* (2025) [DOI](https://doi.org/10.1016/j.jcp.2025.114313) - [arXiv](https://arxiv.org/abs/2410.00525) - [HAL](https://inria.hal.science/hal-04721179) - [Code](https://github.com/rsantet/Improving_Sampling_By_Modifying_The_Effective_Diffusion)
+      - T. Lelièvre, G. A. Pavliotis, G. Robin, R. Santet, G. Stoltz, **Optimizing the diffusion coefficient of overdamped Langevin dynamics**, *Mathematics of Computations* (2025) [DOI](https://doi.org/10.1090/mcom/4098) - [arXiv](https://arxiv.org/abs/2404.12087) - [HAL](https://hal.science/hal-04568317) - [Python](https://github.com/rsantet/Optimal_Overdamped_Langevin_Diffusion_Python)/[Julia](https://github.com/rsantet/Optimal_Overdamped_Langevin_Diffusion_Julia) Code
+      - T. Lelièvre, R. Santet, G. Stoltz, **Unbiasing Hamiltonian Monte Carlo algorithms for a general Hamiltonian function**, *Foundations of Computational Mathematics* (2024) [DOI](https://doi.org/10.1007/s10208-024-09677-4) - [arXiv](https://arxiv.org/abs/2303.15918) - [HAL](https://hal.science/hal-04050146) - [Code](https://github.com/rsantet/RMHMC)
 
   - title: Presented courses and tutorials
     layout: text

@@ -48,12 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/pic.jpg
 about_content: | 
-  I am a PhD student in computational statistical physics under the direction of [Gabriel Stoltz](https://cermics-lab.enpc.fr/gabriel-stoltz/) and [Tony Lelièvre](https://cermics.enpc.fr/~lelievre/) at [CERMICS](https://cermics-lab.enpc.fr/) (École des Ponts) and [MATHERIALS](https://team.inria.fr/matherials/) (INRIA Paris).
-  Relevant topics include:
-  - sampling of probability measures in high dimensions using MCMC methods (Metropolis-Hastings, Generalized Hamiltonian Monte Carlo)
-  - overdamped/underdamped Langevin dynamics
-  - numerical analysis
-  - numerical integration
+  I am a Post Doctoral researcher under the supervision of [Emeric Bourasseau](https://scholar.google.com/citations?user=M4Tc3AMAAAAJ&hl=fr) and [Luca Messina](https://scholar.google.com/citations?hl=fr&user=_q0x3tsAAAAJ) at [CEA Cadarache](https://cadarache.cea.fr/cad/Pages/Accueil.aspx). Before, I was a PhD student under the supervision of [Gabriel Stoltz](https://cermics-lab.enpc.fr/gabriel-stoltz/) and [Tony Lelièvre](https://cermics.enpc.fr/~lelievre/) at [CERMICS](https://cermics-lab.enpc.fr/) (École des Ponts) and [MATHERIALS](https://team.inria.fr/matherials/) (INRIA Paris).
 
   Mail: [r......@xxxx.fr](https://mailhide.io/e/4R6XjXCx)
 
@@ -81,17 +76,14 @@ content:
     layout: text
     content: | 
       - T. Lelièvre, R. Santet, G. Stoltz, **Unbiasing Hamiltonian Monte Carlo algorithms for a general Hamiltonian function**, *Foundations of Computational Mathematics* (2024) [DOI](https://doi.org/10.1007/s10208-024-09677-4) - [arXiv](https://arxiv.org/abs/2303.15918) - [HAL](https://hal.science/hal-04050146) - [Code](https://github.com/rsantet/RMHMC)
-
-  - title: Preprints
-    layout: text
-    content: | 
-      - T. Lelièvre, G. A. Pavliotis, G. Robin, R. Santet, G. Stoltz, **Optimizing the diffusion coefficient of overdamped Langevin dynamics** (2024) [arXiv](https://arxiv.org/abs/2404.12087) - [HAL](https://hal.science/hal-04568317) - [Python](https://github.com/rsantet/Optimal_Overdamped_Langevin_Diffusion_Python)/[Julia](https://github.com/rsantet/Optimal_Overdamped_Langevin_Diffusion_Julia) Code
-      - T. Lelièvre, R. Santet, G. Stoltz, **Improving sampling by modifying the effective diffusion** (2024) [arXiv](https://arxiv.org/abs/2410.00525)
+      - T. Lelièvre, G. A. Pavliotis, G. Robin, R. Santet, G. Stoltz, **Optimizing the diffusion coefficient of overdamped Langevin dynamics**, *Mathematics of Computations* (2025) [DOI](https://doi.org/10.1090/mcom/4098) - [arXiv](https://arxiv.org/abs/2404.12087) - [HAL](https://hal.science/hal-04568317) - [Python](https://github.com/rsantet/Optimal_Overdamped_Langevin_Diffusion_Python)/[Julia](https://github.com/rsantet/Optimal_Overdamped_Langevin_Diffusion_Julia) Code
+      - T. Lelièvre, R. Santet, G. Stoltz, **Improving sampling by modifying the effective diffusion**, *Journal of Computational Physics* (2025) [DOI](https://doi.org/10.1016/j.jcp.2025.114313) - [arXiv](https://arxiv.org/abs/2410.00525) - [Code](https://github.com/rsantet/Improving_Sampling_By_Modifying_The_Effective_Diffusion)
 
   - title: Presented courses and tutorials
     layout: text
     content: |
-      - Discretization of Langevin dynamics and its Metropolization, [ANR SINEQ SUMMER SCHOOL 2023 - Sampling high-dimensional probability measures: applications in (non)equilibrium molceular dynamics and statistics](https://www.ceremade.dauphine.fr/~iacob/SINEQ-SummerSchool) - Champs-sur-Marne, September 2023 - [Notebook](https://github.com/noeblassel/SINEQSummerSchool2023/blob/main/notebooks/langevin.ipynb), [GitHub repository](https://github.com/noeblassel/SINEQSummerSchool2023)
+      - Performing sampling of physical systems at equilibrium, [Summer School on Sampling High-Dimensional Probability Measures with Applications in (Non)Equilibrium Molecular Dynamics and Statistics](https://www.cecam.org/workshop-details/summer-school-on-sampling-high-dimensional-probability-measures-with-applications-in-nonequilibrium-molecular-dynamics-and-statistics-1448) - Birmingham, July 2025 - [Notebook](https://github.com/shiva-darshan/CECAMSummerSchool2025/blob/main/notebooks/equilibrium_sampling.ipynb)
+      - Discretization of Langevin dynamics and its Metropolization, [Sampling high-dimensional probability measures: applications in (non)equilibrium molecular dynamics and statistics](https://www.ceremade.dauphine.fr/~iacob/SINEQ-SummerSchool) - Champs-sur-Marne, September 2023 - [Notebook](https://github.com/noeblassel/SINEQSummerSchool2023/blob/main/notebooks/langevin.ipynb), [GitHub repository](https://github.com/noeblassel/SINEQSummerSchool2023)
       - Presenting MCMC methods in the molecular dynamics framework, [CERMICS JSJC 2022](https://cermics-lab.enpc.fr/seminaires/young-researchers-seminar/jsjc/) - Provins, November 2022 - [Notebook](./files/CERMICS_JSJC_2022_Phy_Stat_Num.ipynb)
 
   - title: Conferences and workshops
@@ -120,7 +112,8 @@ content:
   - title: General scientific communication
     layout: text
     content: |
-      - [Ma Thèse en 180 secondes](https://mt180.fr/): 3 minutes to introduce my subject for the whole world to see - Champs-sur-Marne, March 2023 - [Finale Paris-Est Sup 2023 - Video (in French)](https://www.youtube.com/watch?v=R4xknDnXapg)
+      - [Ma Thèse en 180 secondes](https://mt180.fr/): 3 minutes to introduce my subject for the whole world to see - Champs-sur-Marne, March 2023 - [Finale Paris-Est Sup 2023 - Video (in French)](https://www.youtube.com/watch?v=R4xknDnXapg) - [Written interview (in French)](https://ingenius.ecoledesponts.fr/articles/ma-these-en-180-secondes-rencontre-avec-regis-santet/)
+      - [Ingenius Podcast on my PhD subject (in French)](https://ingenius.ecoledesponts.fr/articles/la-dynamique-moleculaire-un-microscope-numerique-pour-lindustrie/)
       - I transcribed in LaTeX some mathematics exercices (and answers) that I prepared during my studies (L2 or CPGE MP* level in France). Everything is in French (and there are definitely typos here and there). 
       Content: abstract algebra, differential calculus, matrix calculus, linear differential equations, euclidean spaces, normed vector spaces, functions of a real variable, integration, inner product spaces, probabilities, matrix reduction, series, power series, sequences and series of functions. [GitHub repository](https://github.com/rsantet/Exos_Maths_Spe)
 
@@ -130,8 +123,6 @@ content:
       - Electromagnetism: electromagnetic field, electrostatics, magnetostatics, electric dipoles, Maxwell equations, electromagnetic energy, waves in a vacuum, dispersion and attenuation of waves
       - Thermodynamics: open systems, heat transfers   
       [GitHub repository](https://github.com/rsantet/Physique_Chimie_L2)
-
-
 
   - title: Teaching
     layout: text
@@ -179,7 +170,7 @@ content:
   - title: Community Involvement 
     layout: text 
     content: |
-      - Helping pupils and students with their homeworks with [Mosaïc](https://mosaic-a-montreuil.fr/), 2023 - Present.
+      - Helping pupils and students with their homeworks with [Mosaïc](https://mosaic-a-montreuil.fr/), 2023 - 2024.
       - PhD representative of the [MSTIC doctoral school](https://www.paris-est-sup.fr/ecoles-doctorales/ecole-doctorale-mathematiques-et-stic-mstic/l-ed-mstic/), 2023. Administrative meetings.
       - PhD representative of the [CERMICS laboratory](https://cermics-lab.enpc.fr/), 2022 - 2023. 3 days seminar organization, administrative meetings.
       - Member of the [Running Vincennes Association](https://www.running-vincennes.fr/), 2021 - 2024.

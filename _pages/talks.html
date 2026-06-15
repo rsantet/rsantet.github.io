@@ -1,0 +1,22 @@
+---
+layout: archive
+title: "Talks & Posters"
+permalink: /talks/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% for category in site.talk_category %}
+  {% assign title_shown = false %}
+  {% for post in site.talks reversed %}
+    {% if post.type != category[0] %}
+      {% continue %}
+    {% endif %}
+    {% unless title_shown %}
+      <h2>{{ category[1].title }}</h2><hr />
+      {% assign title_shown = true %}
+    {% endunless %}
+    {% include archive-single-talk.html %}
+  {% endfor %}
+{% endfor %}

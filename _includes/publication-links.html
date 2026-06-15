@@ -1,0 +1,7 @@
+{% if post.links %}
+  <p class="publication-links">
+    {% for link in post.links %}
+      <a href="{{ link.url }}" target="_blank" rel="noopener noreferrer" class="btn btn--small btn--inverse" title="{{ link.label }}"><i class="{{ link.icon }}" aria-hidden="true"></i> {{ link.label }}</a>
+    {% endfor %}
+  </p>
+{% endif %}

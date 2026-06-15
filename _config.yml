@@ -1,0 +1,247 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve -l -H localhost`. If you change this file, please restart the
+# server process.
+
+# Basic Site Settings
+locale                   : "en-US"
+site_theme               : "default" # "default", "air", "sunrise", "mint", "dirt" and "contrast"
+title                    : "Régis Santet"
+title_separator          : "-"
+name                     : &name "Régis Santet"
+description              : &description "Régis Santet's academic website"
+url                      : https://rsantet.github.io
+baseurl                  : "" # the subpath of your site, e.g. "/blog". Leave blank for a <username>.github.io root site
+repository               : "rsantet/rsantet.github.io"
+
+# Site Author - The following control what appear as part of the author content in the sidebar.
+#               If a field is blank the icon and link will not appear, otherwise it will be shown.
+#               Additional customization can be done by editing /_includes/author-profile.html
+author:
+  avatar           : "pic.jpg"
+  name             : "Régis Santet"
+  pronouns         :
+  bio              : "CEA researcher, Bruyères-le-Châtel"
+  location         : "Bruyères-le-Châtel, France"
+  employer         : "CEA"
+  uri              :
+  # email            : # left blank on purpose, see contact note on the about page
+
+  # Academic websites
+  academia         :
+  arxiv            : # e.g. https://arxiv.org/a/yourid - add your arXiv author page link here
+  googlescholar    : "https://scholar.google.com/citations?user=_zLwRxEAAAAJ&hl=fr"
+  inspire-hep      :
+  impactstory      :
+  orcid            : "https://orcid.org/0000-0002-7576-5003"
+  semantic         :
+  ssrn             :
+  pubmed           :
+  researchgate     :
+  scopus           :
+  zotero           :
+  hal              : "https://cv.hal.science/regis-santet" # custom field, see _includes/author-profile.html
+
+  # Repositories and software development
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  github           : "rsantet"
+  kaggle           :
+  stackoverflow    : "11345387/flewer47"
+
+  # Social media
+  bluesky          :
+  linkedin         : "r%C3%A9gis-santet-64a263143"
+
+# Publication categories - sections shown on the publications page, in this order
+publication_category:
+  published:
+    title: 'Published'
+  submitted:
+    title: 'Submitted'
+  preprints:
+    title: 'Preprints'
+  other:
+    title: 'Other'
+
+# Talk/poster categories - sections shown on the talks page, in this order
+talk_category:
+  talk:
+    title: 'Talks'
+  poster:
+    title: 'Posters'
+
+# Site Settings
+teaser                   :
+breadcrumbs              : false
+words_per_minute         : 160
+future                   : true
+read_more                : "disabled"
+comments:
+  provider               : false
+atom_feed:
+  hide                   : true
+
+# SEO Related
+google_site_verification :
+bing_site_verification   :
+
+# Analytics
+analytics:
+  provider               : false
+
+# Reading Files
+include:
+  - _pages
+  - files
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - log
+  - node_modules
+  - README.md
+  - vendor
+keep_files:
+  - .git
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+
+# These settings control the types of collections used by the template
+collections:
+  teaching:
+    output: true
+    permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
+
+
+# These settings control how pages and collections are included in the site
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _teaching
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comments: false
+  # _publications
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comments: false
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comments: false
+  # _talks
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: false
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: false
+      share: false
+      comments: false
+      related: false
+
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed
+
+
+# Outputting
+permalink: /:categories/:title/
+timezone: Etc/UTC
+
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jemoji
+
+# Mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jemoji
+
+
+# HTML Compression
+compress_html:
+  clippings: all
+  ignore:
+    envs: development

@@ -1,0 +1,27 @@
+{% include base_path %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <h2 class="archive__item-title" itemprop="headline">{{ title }}</h2>
+
+    {% if post.date %}
+      <p class="page__meta"><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>
+    {% endif %}
+
+    {% if post.venue %}
+      <p class="archive__item-excerpt" itemprop="description">{{ post.venue }}{% if post.location %}, {{ post.location }}{% endif %}</p>
+    {% endif %}
+
+    {% if post.excerpt %}
+      <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+    {% endif %}
+
+    {% include publication-links.html %}
+  </article>
+</div>

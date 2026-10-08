@@ -12,4 +12,7 @@ links:
   - icon: fas fa-file-pdf
     label: Slides 2
     url: /files/statistics_course/slides2.pdf
+  - icon: fas fa-file-pdf
+    label: Slides 3
+    url: /files/statistics_course/slides3.pdf
 ---
